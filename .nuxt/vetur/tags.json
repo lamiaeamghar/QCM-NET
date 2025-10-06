@@ -1,0 +1,470 @@
+{
+  "Loader": {
+    "description": "Auto imported from components/Loader.vue"
+  },
+  "ShapeWithAnimation": {
+    "description": "Auto imported from components/ShapeWithAnimation.vue"
+  },
+  "AboutGallery": {
+    "description": "Auto imported from components/about/AboutGallery.vue"
+  },
+  "AboutPageHeader": {
+    "description": "Auto imported from components/about/AboutPageHeader.vue"
+  },
+  "AboutPageHeaderThree": {
+    "description": "Auto imported from components/about/AboutPageHeaderThree.vue"
+  },
+  "AboutPageHeaderTwo": {
+    "description": "Auto imported from components/about/AboutPageHeaderTwo.vue"
+  },
+  "AboutFunFactTwo": {
+    "description": "Auto imported from components/about/FunFactTwo.vue"
+  },
+  "AboutSpecialPolicy": {
+    "description": "Auto imported from components/about/SpecialPolicy.vue"
+  },
+  "AboutTeamMember": {
+    "description": "Auto imported from components/about/TeamMember.vue"
+  },
+  "AboutVideoCallToAction": {
+    "description": "Auto imported from components/about/VideoCallToAction.vue"
+  },
+  "BecomeInstructorCTA": {
+    "description": "Auto imported from components/become-instructor/BecomeInstructorCTA.vue"
+  },
+  "BecomeInstructorPageHeader": {
+    "description": "Auto imported from components/become-instructor/BecomeInstructorPageHeader.vue"
+  },
+  "BecomeInstructorDiscoverPotential": {
+    "description": "Auto imported from components/become-instructor/DiscoverPotential.vue"
+  },
+  "BecomeInstructorFunFact": {
+    "description": "Auto imported from components/become-instructor/FunFact.vue"
+  },
+  "BecomeInstructorBanner": {
+    "description": "Auto imported from components/become-instructor/InstructorBanner.vue"
+  },
+  "BecomeInstructorTab": {
+    "description": "Auto imported from components/become-instructor/InstructorTab.vue"
+  },
+  "BlogArticleGridStyle": {
+    "description": "Auto imported from components/blog/BlogArticleGridStyle.vue"
+  },
+  "BlogArticleGridStyleTwo": {
+    "description": "Auto imported from components/blog/BlogArticleGridStyleTwo.vue"
+  },
+  "BlogArticleListStyle": {
+    "description": "Auto imported from components/blog/BlogArticleListStyle.vue"
+  },
+  "BlogSectionOne": {
+    "description": "Auto imported from components/blog/BlogSectionOne.vue"
+  },
+  "BlogSectionThree": {
+    "description": "Auto imported from components/blog/BlogSectionThree.vue"
+  },
+  "BlogSectionTwo": {
+    "description": "Auto imported from components/blog/BlogSectionTwo.vue"
+  },
+  "BlogSidebar": {
+    "description": "Auto imported from components/blog/BlogSidebar.vue"
+  },
+  "BlogComment": {
+    "description": "Auto imported from components/blog/Comment.vue"
+  },
+  "BlogLatestPost": {
+    "description": "Auto imported from components/blog/LatestPost.vue"
+  },
+  "BlogSocialShareButtonGroup": {
+    "description": "Auto imported from components/blog/SocialShareButtonGroup.vue"
+  },
+  "BrandPartner": {
+    "description": "Auto imported from components/brand-partner/BrandPartner.vue"
+  },
+  "BrandPartnerCarousel": {
+    "description": "Auto imported from components/brand-partner/BrandPartnerCarousel.vue"
+  },
+  "BrandPartnerThree": {
+    "description": "Auto imported from components/brand-partner/BrandPartnerThree.vue"
+  },
+  "BrandPartnerTwo": {
+    "description": "Auto imported from components/brand-partner/BrandPartnerTwo.vue"
+  },
+  "CategoriesBrowseSubject": {
+    "description": "Auto imported from components/categories/BrowseSubject.vue"
+  },
+  "CategoriesCategoryItemStyleOne": {
+    "description": "Auto imported from components/categories/CategoryItemStyleOne.vue"
+  },
+  "CategoriesCategoryItemStyleThree": {
+    "description": "Auto imported from components/categories/CategoryItemStyleThree.vue"
+  },
+  "CategoriesCategoryItemStyleTwo": {
+    "description": "Auto imported from components/categories/CategoryItemStyleTwo.vue"
+  },
+  "CategoriesTopCategoriesWrapperOne": {
+    "description": "Auto imported from components/categories/TopCategoriesWrapperOne.vue"
+  },
+  "CategoriesTopCategoriesWrapperThree": {
+    "description": "Auto imported from components/categories/TopCategoriesWrapperThree.vue"
+  },
+  "CategoriesTopCategoriesWrapperTwo": {
+    "description": "Auto imported from components/categories/TopCategoriesWrapperTwo.vue"
+  },
+  "ContactFormOne": {
+    "description": "Auto imported from components/contact/ContactFormOne.vue"
+  },
+  "ContactInfoStyleOne": {
+    "description": "Auto imported from components/contact/ContactInfoStyleOne.vue"
+  },
+  "ContactInfoStyleTwo": {
+    "description": "Auto imported from components/contact/ContactInfoStyleTwo.vue"
+  },
+  "ContactGoogleMap": {
+    "description": "Auto imported from components/contact/GoogleMap.vue"
+  },
+  "BannerStyleFour": {
+    "description": "Auto imported from components/banner/BannerStyleFour.vue"
+  },
+  "BannerStyleOne": {
+    "description": "Auto imported from components/banner/BannerStyleOne.vue"
+  },
+  "BannerStyleThree": {
+    "description": "Auto imported from components/banner/BannerStyleThree.vue"
+  },
+  "BannerStyleTwo": {
+    "description": "Auto imported from components/banner/BannerStyleTwo.vue"
+  },
+  "CoursesCourseCurriculum": {
+    "description": "Auto imported from components/courses/CourseCurriculum.vue"
+  },
+  "CoursesCourseDetailsBreadcrumb": {
+    "description": "Auto imported from components/courses/CourseDetailsBreadcrumb.vue"
+  },
+  "CoursesCourseDetailsContent": {
+    "description": "Auto imported from components/courses/CourseDetailsContent.vue"
+  },
+  "CoursesCourseDetailsHeader": {
+    "description": "Auto imported from components/courses/CourseDetailsHeader.vue"
+  },
+  "CoursesCourseFilter": {
+    "description": "Auto imported from components/courses/CourseFilter.vue"
+  },
+  "CoursesCourseGridStyle": {
+    "description": "Auto imported from components/courses/CourseGridStyle.vue"
+  },
+  "CoursesCourseGridStyleThree": {
+    "description": "Auto imported from components/courses/CourseGridStyleThree.vue"
+  },
+  "CoursesCourseGridStyleTwo": {
+    "description": "Auto imported from components/courses/CourseGridStyleTwo.vue"
+  },
+  "CoursesCourseListStyle": {
+    "description": "Auto imported from components/courses/CourseListStyle.vue"
+  },
+  "CoursesByCategories": {
+    "description": "Auto imported from components/courses/CoursesByCategories.vue"
+  },
+  "CoursesByCategoriesBackup": {
+    "description": "Auto imported from components/courses/CoursesByCategoriesBackup.vue"
+  },
+  "CoursesSectionOne": {
+    "description": "Auto imported from components/courses/CoursesSectionOne.vue"
+  },
+  "CoursesSectionThree": {
+    "description": "Auto imported from components/courses/CoursesSectionThree.vue"
+  },
+  "CoursesSectionTwo": {
+    "description": "Auto imported from components/courses/CoursesSectionTwo.vue"
+  },
+  "CoursesLanguageCourses": {
+    "description": "Auto imported from components/courses/LanguageCourses.vue"
+  },
+  "CoursesTrendingCourses": {
+    "description": "Auto imported from components/courses/TrendingCourses.vue"
+  },
+  "ElementsBreadcrumbStyleOne": {
+    "description": "Auto imported from components/elements/BreadcrumbStyleOne.vue"
+  },
+  "ElementsBreadcrumbStyleTwo": {
+    "description": "Auto imported from components/elements/BreadcrumbStyleTwo.vue"
+  },
+  "ElementsButtonDefault": {
+    "description": "Auto imported from components/elements/ButtonDefault.vue"
+  },
+  "ElementsButtonStyleOne": {
+    "description": "Auto imported from components/elements/ButtonStyleOne.vue"
+  },
+  "ElementsCallToActionOne": {
+    "description": "Auto imported from components/elements/CallToActionOne.vue"
+  },
+  "ElementsCategoryFilterButton": {
+    "description": "Auto imported from components/elements/CategoryFilterButton.vue"
+  },
+  "ElementsCountdown": {
+    "description": "Auto imported from components/elements/Countdown.vue"
+  },
+  "ElementsCountdownSignupSection": {
+    "description": "Auto imported from components/elements/CountdownSignupSection.vue"
+  },
+  "ElementsFunFactStyleTwo": {
+    "description": "Auto imported from components/elements/FunFactStyleTwo.vue"
+  },
+  "ElementsFunFactThree": {
+    "description": "Auto imported from components/elements/FunFactThree.vue"
+  },
+  "ElementsHeaderSearchBox": {
+    "description": "Auto imported from components/elements/HeaderSearchBox.vue"
+  },
+  "ElementsIconBoxOne": {
+    "description": "Auto imported from components/elements/IconBoxOne.vue"
+  },
+  "ElementsModal": {
+    "description": "Auto imported from components/elements/Modal.vue"
+  },
+  "ElementsModalCopy": {
+    "description": "Auto imported from components/elements/ModalCopy.vue"
+  },
+  "ElementsOurSpeakers": {
+    "description": "Auto imported from components/elements/OurSpeakers.vue"
+  },
+  "ElementsPricingPlanStyleOne": {
+    "description": "Auto imported from components/elements/PricingPlanStyleOne.vue"
+  },
+  "ElementsPricingPlanStyleTwo": {
+    "description": "Auto imported from components/elements/PricingPlanStyleTwo.vue"
+  },
+  "ElementsSectionTitleStyleOne": {
+    "description": "Auto imported from components/elements/SectionTitleStyleOne.vue"
+  },
+  "ElementsStarRating": {
+    "description": "Auto imported from components/elements/StarRating.vue"
+  },
+  "EventsEventArticle": {
+    "description": "Auto imported from components/events/EventArticle.vue"
+  },
+  "EventsEventArticleStyleTwo": {
+    "description": "Auto imported from components/events/EventArticleStyleTwo.vue"
+  },
+  "EventsEventArticleThree": {
+    "description": "Auto imported from components/events/EventArticleThree.vue"
+  },
+  "EventsEventFilterWidget": {
+    "description": "Auto imported from components/events/EventFilterWidget.vue"
+  },
+  "EventsEventListArticle": {
+    "description": "Auto imported from components/events/EventListArticle.vue"
+  },
+  "EventsEventSidebar": {
+    "description": "Auto imported from components/events/EventSidebar.vue"
+  },
+  "EventsOne": {
+    "description": "Auto imported from components/events/EventsOne.vue"
+  },
+  "EventsThree": {
+    "description": "Auto imported from components/events/EventsThree.vue"
+  },
+  "EventsTwo": {
+    "description": "Auto imported from components/events/EventsTwo.vue"
+  },
+  "EventsPopularEvent": {
+    "description": "Auto imported from components/events/PopularEvent.vue"
+  },
+  "FaqsFaqListWrapper": {
+    "description": "Auto imported from components/faqs/FaqListWrapper.vue"
+  },
+  "FaqsFaqPageHeader": {
+    "description": "Auto imported from components/faqs/FaqPageHeader.vue"
+  },
+  "FaqsSearchTopic": {
+    "description": "Auto imported from components/faqs/SearchTopic.vue"
+  },
+  "FeatureListStyleOne": {
+    "description": "Auto imported from components/feature/FeatureListStyleOne.vue"
+  },
+  "FeatureGuides": {
+    "description": "Auto imported from components/feature/Guides.vue"
+  },
+  "FooterCopyright": {
+    "description": "Auto imported from components/footer/FooterCopyright.vue"
+  },
+  "FooterStyleFour": {
+    "description": "Auto imported from components/footer/FooterStyleFour.vue"
+  },
+  "FooterStyleOne": {
+    "description": "Auto imported from components/footer/FooterStyleOne.vue"
+  },
+  "FooterStyleThree": {
+    "description": "Auto imported from components/footer/FooterStyleThree.vue"
+  },
+  "FooterStyleTwo": {
+    "description": "Auto imported from components/footer/FooterStyleTwo.vue"
+  },
+  "HeaderDefault": {
+    "description": "Auto imported from components/header/HeaderDefault.vue"
+  },
+  "HeaderEducationCenter": {
+    "description": "Auto imported from components/header/HeaderEducationCenter.vue"
+  },
+  "HeaderLanguageAcademic": {
+    "description": "Auto imported from components/header/HeaderLanguageAcademic.vue"
+  },
+  "HeaderMain": {
+    "description": "Auto imported from components/header/HeaderMain.vue"
+  },
+  "HeaderSimple": {
+    "description": "Auto imported from components/header/HeaderSimple.vue"
+  },
+  "HeaderTop": {
+    "description": "Auto imported from components/header/HeaderTop.vue"
+  },
+  "HeaderTopLightBg": {
+    "description": "Auto imported from components/header/HeaderTopLightBg.vue"
+  },
+  "HeaderTopNotificationBar": {
+    "description": "Auto imported from components/header/HeaderTopNotificationBar.vue"
+  },
+  "HeaderTopStyleTwo": {
+    "description": "Auto imported from components/header/HeaderTopStyleTwo.vue"
+  },
+  "HeaderTopUniversity": {
+    "description": "Auto imported from components/header/HeaderTopUniversity.vue"
+  },
+  "HeaderNavigation": {
+    "description": "Auto imported from components/header/Navigation.vue"
+  },
+  "HeaderNavigationMain": {
+    "description": "Auto imported from components/header/NavigationMain.vue"
+  },
+  "HeaderOffCanvasMobileMenu": {
+    "description": "Auto imported from components/header/OffCanvasMobileMenu.vue"
+  },
+  "HeaderOffcanvasSearchBox": {
+    "description": "Auto imported from components/header/OffcanvasSearchBox.vue"
+  },
+  "HeaderResponsiveMobileMenu": {
+    "description": "Auto imported from components/header/ResponsiveMobileMenu.vue"
+  },
+  "HeaderUniversityNavigationBar": {
+    "description": "Auto imported from components/header/UniversityNavigationBar.vue"
+  },
+  "HeroBannerOne": {
+    "description": "Auto imported from components/hero/HeroBannerOne.vue"
+  },
+  "HeroCourseHub": {
+    "description": "Auto imported from components/hero/HeroCourseHub.vue"
+  },
+  "HeroEducationCenter": {
+    "description": "Auto imported from components/hero/HeroEducationCenter.vue"
+  },
+  "HeroLanguageAcademic": {
+    "description": "Auto imported from components/hero/HeroLanguageAcademic.vue"
+  },
+  "HeroOnlineAcademy": {
+    "description": "Auto imported from components/hero/HeroOnlineAcademy.vue"
+  },
+  "HeroUniversity": {
+    "description": "Auto imported from components/hero/HeroUniversity.vue"
+  },
+  "InstructorDashboardVerticalMenu": {
+    "description": "Auto imported from components/instructor/DashboardVerticalMenu.vue"
+  },
+  "Instructor": {
+    "description": "Auto imported from components/instructor/Instructor.vue"
+  },
+  "InstructorDashboardHeader": {
+    "description": "Auto imported from components/instructor/InstructorDashboardHeader.vue"
+  },
+  "InstructorInfoStyleOne": {
+    "description": "Auto imported from components/instructor/InstructorInfoStyleOne.vue"
+  },
+  "InstructorReviews": {
+    "description": "Auto imported from components/instructor/InstructorReviews.vue"
+  },
+  "InstructorTwo": {
+    "description": "Auto imported from components/instructor/InstructorTwo.vue"
+  },
+  "InstructorMobileNavigation": {
+    "description": "Auto imported from components/instructor/MobileNavigation.vue"
+  },
+  "InstructorOffCanvasMobileMenu": {
+    "description": "Auto imported from components/instructor/OffCanvasMobileMenu.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/login/Login.vue"
+  },
+  "NewsletterOne": {
+    "description": "Auto imported from components/newsletter/NewsletterOne.vue"
+  },
+  "Register": {
+    "description": "Auto imported from components/register/Register.vue"
+  },
+  "SectionCoursesSectionOneBackup": {
+    "description": "Auto imported from components/section/CoursesSectionOneBackup.vue"
+  },
+  "TabsDemo": {
+    "description": "Auto imported from components/tabs/Demo.vue"
+  },
+  "TabsTab": {
+    "description": "Auto imported from components/tabs/Tab.vue"
+  },
+  "Tabs": {
+    "description": "Auto imported from components/tabs/Tabs.vue"
+  },
+  "TestimonialFour": {
+    "description": "Auto imported from components/testimonial/TestimonialFour.vue"
+  },
+  "TestimonialItem": {
+    "description": "Auto imported from components/testimonial/TestimonialItem.vue"
+  },
+  "TestimonialItemStyleTwo": {
+    "description": "Auto imported from components/testimonial/TestimonialItemStyleTwo.vue"
+  },
+  "TestimonialOne": {
+    "description": "Auto imported from components/testimonial/TestimonialOne.vue"
+  },
+  "TestimonialStyleTwo": {
+    "description": "Auto imported from components/testimonial/TestimonialStyleTwo.vue"
+  },
+  "TestimonialThree": {
+    "description": "Auto imported from components/testimonial/TestimonialThree.vue"
+  },
+  "UniversityAcademics": {
+    "description": "Auto imported from components/university/Academics.vue"
+  },
+  "UniversityApplyCallToAction": {
+    "description": "Auto imported from components/university/ApplyCallToAction.vue"
+  },
+  "UniversityCampusLife": {
+    "description": "Auto imported from components/university/CampusLife.vue"
+  },
+  "ZoomArticle": {
+    "description": "Auto imported from components/zoom-meetings/ZoomArticle.vue"
+  },
+  "CoursesSidebarCategoryWidget": {
+    "description": "Auto imported from components/courses/sidebar/CategoryWidget.vue"
+  },
+  "CoursesSidebarCourseSidebar": {
+    "description": "Auto imported from components/courses/sidebar/CourseSidebar.vue"
+  },
+  "CoursesSidebarInstructorWidget": {
+    "description": "Auto imported from components/courses/sidebar/InstructorWidget.vue"
+  },
+  "CoursesSidebarLanguagesWidget": {
+    "description": "Auto imported from components/courses/sidebar/LanguagesWidget.vue"
+  },
+  "CoursesSidebarLevelWidget": {
+    "description": "Auto imported from components/courses/sidebar/LevelWidget.vue"
+  },
+  "CoursesSidebarPricingWidget": {
+    "description": "Auto imported from components/courses/sidebar/PricingWidget.vue"
+  },
+  "CoursesSidebarRelatedCourse": {
+    "description": "Auto imported from components/courses/sidebar/RelatedCourse.vue"
+  },
+  "ElementsTab": {
+    "description": "Auto imported from components/elements/tab/Tab.vue"
+  },
+  "ElementsTabTabs": {
+    "description": "Auto imported from components/elements/tab/Tabs.vue"
+  }
+}

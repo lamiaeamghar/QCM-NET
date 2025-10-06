@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Oliver Maya",
+        "designation": "Designer, HasThemes",
+        "title": "Great Quality!",
+        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
+        "thumbnail": "/images/avatar/avatar-01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bright Hossain",
+        "designation": "Developer, HasThemes",
+        "title": "Code Quality!",
+        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
+        "thumbnail": "/images/avatar/avatar-02.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Luvic Dubble",
+        "designation": "Marketer, HasThemes",
+        "title": "Customer support",
+        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
+        "thumbnail": "/images/avatar/avatar-03.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mina Hollace",
+        "designation": "Designer, HasThemes",
+        "title": "Great Quality!",
+        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
+        "thumbnail": "/images/avatar/avatar-04.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Maya Hossain",
+        "designation": "Analyst, HasThemes",
+        "title": "Code Quality!",
+        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
+        "thumbnail": "/images/avatar/avatar-03.jpg"
+    }
+]

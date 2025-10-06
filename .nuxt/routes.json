@@ -1,0 +1,366 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_fe15e62c"
+  },
+  {
+    "name": "about-02",
+    "path": "/about-02",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\about-02\\\\index.vue",
+    "chunkName": "pages/about-02/index",
+    "_name": "_0a2d92ca"
+  },
+  {
+    "name": "become-an-instructor",
+    "path": "/become-an-instructor",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\become-an-instructor\\\\index.vue",
+    "chunkName": "pages/become-an-instructor/index",
+    "_name": "_11d82e86"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_3f8380bb"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_43d57712"
+  },
+  {
+    "name": "contact-us-02",
+    "path": "/contact-us-02",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\contact-us-02\\\\index.vue",
+    "chunkName": "pages/contact-us-02/index",
+    "_name": "_076a891a"
+  },
+  {
+    "name": "course-hub",
+    "path": "/course-hub",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\course-hub\\\\index.vue",
+    "chunkName": "pages/course-hub/index",
+    "_name": "_68e6bb3a"
+  },
+  {
+    "name": "courses",
+    "path": "/courses",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\index.vue",
+    "chunkName": "pages/courses/index",
+    "_name": "_32899c9f"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_1d8ccd03"
+  },
+  {
+    "name": "education-center",
+    "path": "/education-center",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\education-center\\\\index.vue",
+    "chunkName": "pages/education-center/index",
+    "_name": "_474b1ec3"
+  },
+  {
+    "name": "event",
+    "path": "/event",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\event\\\\index.vue",
+    "chunkName": "pages/event/index",
+    "_name": "_97bc7886"
+  },
+  {
+    "name": "faqs",
+    "path": "/faqs",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\faqs\\\\index.vue",
+    "chunkName": "pages/faqs/index",
+    "_name": "_2bc34d60"
+  },
+  {
+    "name": "instructors",
+    "path": "/instructors",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\index.vue",
+    "chunkName": "pages/instructors/index",
+    "_name": "_69f31ba1"
+  },
+  {
+    "name": "language-academic",
+    "path": "/language-academic",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\language-academic\\\\index.vue",
+    "chunkName": "pages/language-academic/index",
+    "_name": "_25f0adbb"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_57217f8e"
+  },
+  {
+    "name": "membership-plans",
+    "path": "/membership-plans",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\membership-plans\\\\index.vue",
+    "chunkName": "pages/membership-plans/index",
+    "_name": "_48dab98a"
+  },
+  {
+    "name": "online-academy",
+    "path": "/online-academy",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\online-academy\\\\index.vue",
+    "chunkName": "pages/online-academy/index",
+    "_name": "_e3c495aa"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_1a437e66"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_70fb359a"
+  },
+  {
+    "name": "terms-condition",
+    "path": "/terms-condition",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\terms-condition\\\\index.vue",
+    "chunkName": "pages/terms-condition/index",
+    "_name": "_526c5a3c"
+  },
+  {
+    "name": "university",
+    "path": "/university",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\university\\\\index.vue",
+    "chunkName": "pages/university/index",
+    "_name": "_13bee80f"
+  },
+  {
+    "name": "zoom-meetings",
+    "path": "/zoom-meetings",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\zoom-meetings\\\\index.vue",
+    "chunkName": "pages/zoom-meetings/index",
+    "_name": "_1297bc05"
+  },
+  {
+    "name": "blog-blog-grid-basic",
+    "path": "/blog/blog-grid-basic",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\blog\\\\blog-grid-basic.vue",
+    "chunkName": "pages/blog/blog-grid-basic",
+    "_name": "_05887eca"
+  },
+  {
+    "name": "blog-blog-left-sidebar",
+    "path": "/blog/blog-left-sidebar",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\blog\\\\blog-left-sidebar.vue",
+    "chunkName": "pages/blog/blog-left-sidebar",
+    "_name": "_0f56caca"
+  },
+  {
+    "name": "blog-blog-list-layout",
+    "path": "/blog/blog-list-layout",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\blog\\\\blog-list-layout.vue",
+    "chunkName": "pages/blog/blog-list-layout",
+    "_name": "_be249396"
+  },
+  {
+    "name": "courses-basic-grid-layout",
+    "path": "/courses/basic-grid-layout",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\basic-grid-layout\\\\index.vue",
+    "chunkName": "pages/courses/basic-grid-layout/index",
+    "_name": "_77fd82e3"
+  },
+  {
+    "name": "courses-basic-list-layout",
+    "path": "/courses/basic-list-layout",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\basic-list-layout\\\\index.vue",
+    "chunkName": "pages/courses/basic-list-layout/index",
+    "_name": "_e39bfb8a"
+  },
+  {
+    "name": "courses-grid-left-sidebar",
+    "path": "/courses/grid-left-sidebar",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\grid-left-sidebar\\\\index.vue",
+    "chunkName": "pages/courses/grid-left-sidebar/index",
+    "_name": "_5ec55890"
+  },
+  {
+    "name": "courses-search",
+    "path": "/courses/search",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\search\\\\index.vue",
+    "chunkName": "pages/courses/search/index",
+    "_name": "_ea6f0512"
+  },
+  {
+    "name": "event-event-grid",
+    "path": "/event/event-grid",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\event\\\\event-grid.vue",
+    "chunkName": "pages/event/event-grid",
+    "_name": "_43047984"
+  },
+  {
+    "name": "event-event-list",
+    "path": "/event/event-list",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\event\\\\event-list.vue",
+    "chunkName": "pages/event/event-list",
+    "_name": "_1bbd7c96"
+  },
+  {
+    "name": "event-event-list-sidebar",
+    "path": "/event/event-list-sidebar",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\event\\\\event-list-sidebar.vue",
+    "chunkName": "pages/event/event-list-sidebar",
+    "_name": "_2e61ada5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a8137146"
+  },
+  {
+    "name": "blog-category-slug",
+    "path": "/blog/category/:slug?",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\blog\\\\category\\\\_slug.vue",
+    "chunkName": "pages/blog/category/_slug",
+    "_name": "_7452aaf5"
+  },
+  {
+    "name": "blog-tag-slug",
+    "path": "/blog/tag/:slug?",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\blog\\\\tag\\\\_slug.vue",
+    "chunkName": "pages/blog/tag/_slug",
+    "_name": "_61d2a3d2"
+  },
+  {
+    "name": "courses-category-slug",
+    "path": "/courses/category/:slug?",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\category\\\\_slug.vue",
+    "chunkName": "pages/courses/category/_slug",
+    "_name": "_db3b8c4e"
+  },
+  {
+    "name": "courses-tag-tag",
+    "path": "/courses/tag/:tag?",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\tag\\\\_tag.vue",
+    "chunkName": "pages/courses/tag/_tag",
+    "_name": "_f097b37c"
+  },
+  {
+    "name": "instructors-profile-slug",
+    "path": "/instructors/profile/:slug",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\index.vue",
+    "chunkName": "pages/instructors/profile/_slug/index",
+    "_name": "_4be53140"
+  },
+  {
+    "name": "instructors-profile-slug-assignments",
+    "path": "/instructors/profile/:slug?/assignments",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\assignments.vue",
+    "chunkName": "pages/instructors/profile/_slug/assignments",
+    "_name": "_2d200934"
+  },
+  {
+    "name": "instructors-profile-slug-courses",
+    "path": "/instructors/profile/:slug?/courses",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\courses.vue",
+    "chunkName": "pages/instructors/profile/_slug/courses",
+    "_name": "_5b5228b4"
+  },
+  {
+    "name": "instructors-profile-slug-enrolled-courses",
+    "path": "/instructors/profile/:slug?/enrolled-courses",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\enrolled-courses.vue",
+    "chunkName": "pages/instructors/profile/_slug/enrolled-courses",
+    "_name": "_c1a8709c"
+  },
+  {
+    "name": "instructors-profile-slug-my-students",
+    "path": "/instructors/profile/:slug?/my-students",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\my-students.vue",
+    "chunkName": "pages/instructors/profile/_slug/my-students",
+    "_name": "_6a209df2"
+  },
+  {
+    "name": "instructors-profile-slug-purchase-history",
+    "path": "/instructors/profile/:slug?/purchase-history",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\purchase-history.vue",
+    "chunkName": "pages/instructors/profile/_slug/purchase-history",
+    "_name": "_69a439ca"
+  },
+  {
+    "name": "instructors-profile-slug-reviews",
+    "path": "/instructors/profile/:slug?/reviews",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\reviews.vue",
+    "chunkName": "pages/instructors/profile/_slug/reviews",
+    "_name": "_2858d289"
+  },
+  {
+    "name": "instructors-profile-slug-wishlist",
+    "path": "/instructors/profile/:slug?/wishlist",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\wishlist.vue",
+    "chunkName": "pages/instructors/profile/_slug/wishlist",
+    "_name": "_3c131172"
+  },
+  {
+    "name": "instructors-profile-slug-withdraw",
+    "path": "/instructors/profile/:slug?/withdraw",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\instructors\\\\profile\\\\_slug\\\\withdraw.vue",
+    "chunkName": "pages/instructors/profile/_slug/withdraw",
+    "_name": "_54c1a20c"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_3dccdf73"
+  },
+  {
+    "name": "course-category-slug",
+    "path": "/course-category/:slug?",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\course-category\\\\_slug.vue",
+    "chunkName": "pages/course-category/_slug",
+    "_name": "_27fc9ec2"
+  },
+  {
+    "name": "courses-slug",
+    "path": "/courses/:slug",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\courses\\\\_slug.vue",
+    "chunkName": "pages/courses/_slug",
+    "_name": "_30d2fb57"
+  },
+  {
+    "name": "event-slug",
+    "path": "/event/:slug",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\event\\\\_slug.vue",
+    "chunkName": "pages/event/_slug",
+    "_name": "_9b29bb16"
+  },
+  {
+    "name": "faqs-slug",
+    "path": "/faqs/:slug",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\faqs\\\\_slug.vue",
+    "chunkName": "pages/faqs/_slug",
+    "_name": "_2a0cac18"
+  },
+  {
+    "name": "zoom-meetings-slug",
+    "path": "/zoom-meetings/:slug?",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\INOCOD-EN\\\\edumall\\\\pages\\\\zoom-meetings\\\\_slug.vue",
+    "chunkName": "pages/zoom-meetings/_slug",
+    "_name": "_10e11abd"
+  }
+]

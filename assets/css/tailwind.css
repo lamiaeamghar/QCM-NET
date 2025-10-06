@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply text-body text-sm font-base;
+    }
+    img {
+        @apply inline-block;
+    }
+    p {
+        @apply mb-4 last:mb-0 leading-6;
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @apply font-semibold text-heading leading-[1.4];
+    }
+    h2 {
+        @apply text-3xl;
+    }
+    h3 {
+        @apply text-2xl;
+    }
+    h4 {
+        @apply text-xl;
+    }
+    h5 {
+        @apply text-lg;
+    }
+    h6 {
+        @apply text-normal;
+    }
+    li {
+        @apply last:mr-0;
+    }
+    a {
+        @apply transition;
+    }
+    .swiper-button-prev::after,
+    .swiper-button-next::after {
+        @apply hidden;
+    }
+    .swiper-button-disabled {
+        @apply !pointer-events-auto !opacity-100;
+    }
+    .swiper-pagination-center {
+        @apply left-1/2 -bottom-10 !-translate-x-1/2;
+    }
+    .swiper-pagination .swiper-pagination-bullet {
+        @apply w-2.5 h-2.5 rounded-full bg-heading mr-5 last:mr-0;
+    }
+    blockquote {
+        @apply my-8 mx-5 sm:mx-10 pl-3 md:pl-5 text-normal font-semibold leading-relaxed relative before:content-[''] before:absolute before:top-0 before:left-0 before:bg-primary before:w-1 before:h-full;
+    }
+    .content h6 {
+        @apply mb-2;
+    }
+    .form-check-input:checked[type="checkbox"] {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10l3 3l6-6'/%3e%3c/svg%3e");
+    }
+}
+
+@layer components {
+    .py-section {
+        @apply py-[70px];
+    }
+    .pt-section {
+        @apply pt-[70px];
+    }
+    .pb-section {
+        @apply pb-[70px];
+    }
+    .custom-container {
+        @apply mx-auto w-full max-w-[1200px] px-[15px];
+    }
+
+    .tooltip {
+        @apply relative before:absolute before:content-[''] before:border-[7px] before:border-transparent before:border-t-primary before:bottom-full before:left-[calc(50%_-_7px)] before:transition-all before:duration-300 before:ease-[cubic-bezier(.71,1.7,.77,1.24)] before:pointer-events-none before:z-20 before:mb-[-13px] before:invisible before:opacity-0 after:absolute after:content-[attr(aria-label)] after:bg-primary after:text-white after:py-2 after:px-2.5 after:leading-none after:whitespace-nowrap after:rounded after:shadow-xs after:shadow-black/30 after:bottom-full after:left-1/2 after:-translate-x-1/2 after:transition-all after:duration-300 after:ease-[cubic-bezier(.71,1.7,.77,1.24)] after:pointer-events-none after:z-10 after:invisible after:opacity-0 hover:before:visible hover:before:opacity-100  hover:before:-translate-y-2 hover:after:visible hover:after:opacity-100 hover:after:-translate-y-2;
+    }
+
+    .list-layout [class^="col"] {
+        @apply col-span-12;
+    }
+
+    .VuePagination__count {
+        display: none;
+    }
+}

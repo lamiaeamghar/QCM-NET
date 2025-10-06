@@ -1,0 +1,1244 @@
+[
+    {
+        "id": 1,
+        "title": "Successful Negotiation: Master Your Negotiating Skills",
+        "slug": "successful-negotiation-master-your-negotiating-skills",
+        "thumbnail": "/images/courses/courses-1.jpg",
+        "levels": {
+            "name": "All Levels",
+            "slug": "all-levels"
+        },
+        "instructor": {
+            "id": "parra126",
+            "name": "Parra Victoria"
+        },
+        "languages": {
+            "name": "English",
+            "slug": "english",
+            "flag": "/images/svg/flag-01.svg",
+            "thumbnail": "/images/language/language-01.jpg"
+        },
+        "price": 39.00,
+        "rating": 4.5,
+        "enroll": 10,
+        "lessons": 36,
+        "review": 12,
+        "duration": 7.5,
+        "update": "November 26, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "development",
+            "design"
+        ],
+        "categories": {
+            "name": "development",
+            "slug": "development",
+            "desc": "Code with Confident",
+            "icon": {
+                "iconOne": "/images/svg/development.svg",
+                "iconTwo": "/images/svg/development-img.svg",
+                "thumbnail": "/images/category/development.jpg"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "title": "Time Management Mastery: Do More, Stress Less",
+        "slug": "time-management-mastery-do-more-stress-less",
+        "thumbnail": "/images/courses/courses-2.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "maria126",
+            "name": "Maria Rose"
+        },
+        "languages": {
+            "name": "French",
+            "slug": "french",
+            "flag": "/images/svg/flag-02.svg",
+            "thumbnail": "/images/language/language-02.jpg"
+        },
+        "price": 29.99,
+        "rating": 4,
+        "enroll": 20,
+        "lessons": 55,
+        "review": 10,
+        "duration": 5,
+        "update": "December 12, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": false,
+        "popularity": true,
+        "tags": [
+            "business",
+            "branding",
+            "management"
+        ],
+        "categories": {
+            "name": "business",
+            "slug": "business",
+            "desc": "Improve your business",
+            "icon": {
+                "iconOne": "/images/svg/business.svg",
+                "iconTwo": "/images/svg/business-img.svg",
+                "thumbnail": "/images/category/business.jpg"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "title": "Angular–The Complete Guide (2020 Edition)",
+        "slug": "angular-the-complete-guide-2020-edition",
+        "thumbnail": "/images/courses/courses-3.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "bright126",
+            "name": "The Bright"
+        },
+        "languages": {
+            "name": "German",
+            "slug": "german",
+            "flag": "/images/svg/flag-03.svg",
+            "thumbnail": "/images/language/language-03.jpg"
+        },
+        "price": 49.00,
+        "rating": 0,
+        "enroll": 30,
+        "lessons": 40,
+        "review": 0,
+        "duration": 6.5,
+        "update": "January 15, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "art",
+            "design"
+        ],
+        "categories": {
+            "name": "art & design",
+            "slug": "art-design",
+            "desc": "Fun & Challenging",
+            "icon": {
+                "iconOne": "/images/svg/art-design.svg",
+                "iconTwo": "/images/svg/art-design-img.svg",
+                "thumbnail": "/images/category/art-design.jpg"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "title": "Consulting Approach to Problem Solving",
+        "slug": "consulting-approach-to-problem-solving",
+        "thumbnail": "/images/courses/courses-4.jpg",
+        "levels": {
+            "name": "All Levels",
+            "slug": "all-levels"
+        },
+        "instructor": {
+            "id": "jhonson126",
+            "name": "Jhonson"
+        },
+        "languages": {
+            "name": "Italian",
+            "slug": "italian",
+            "flag": "/images/svg/flag-04.svg",
+            "thumbnail": "/images/language/language-04.jpg"
+        },
+        "price": 0,
+        "rating": 4,
+        "enroll": 40,
+        "lessons": 90,
+        "review": 22,
+        "duration": 8,
+        "update": "March 26, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "tags": [
+            "music",
+            "personal",
+            "instrument",
+            "art"
+        ],
+        "categories": {
+            "name": "music",
+            "slug": "music",
+            "desc": "Major or Minor",
+            "icon": {
+                "iconOne": "/images/svg/music.svg",
+                "iconTwo": "/images/svg/music-img.svg",
+                "thumbnail": "/images/category/music.jpg"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "title": "The Business Intelligence Analyst Course 2020",
+        "slug": "the-business-intelligence-analyst-course-2020",
+        "thumbnail": "/images/courses/courses-5.jpg",
+        "levels": {
+            "name": "Expert",
+            "slug": "expert"
+        },
+        "instructor": {
+            "id": "oliverporter126",
+            "name": "Oliver Porter"
+        },
+        "languages": {
+            "name": "Korean",
+            "slug": "korean",
+            "flag": "/images/svg/flag-05.svg",
+            "thumbnail": "/images/language/language-05.jpg"
+        },
+        "price": 30.00,
+        "rating": 5,
+        "enroll": 50,
+        "lessons": 60,
+        "review": 8,
+        "duration": 4,
+        "update": "April 17, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "tags": [
+            "lifestyle",
+            "fashion"
+        ],
+        "categories": {
+            "name": "lifestyle",
+            "slug": "lifestyle",
+            "desc": "New Skills, New You",
+            "icon": {
+                "iconOne": "/images/svg/lifestyle.svg",
+                "iconTwo": "/images/svg/lifestyle-img.svg",
+                "thumbnail": "/images/category/lifestyle.jpg"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "title": "Become a Product Manager | Learn the Skills & Get the Job",
+        "slug": "become-a-product-manager-learn-the-skills-get-the-job",
+        "thumbnail": "/images/courses/courses-6.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "jack126",
+            "name": "Jack Heaven"
+        },
+        "languages": {
+            "name": "Japanese",
+            "slug": "japanese",
+            "flag": "/images/svg/flag-06.svg",
+            "thumbnail": "/images/language/language-06.jpg"
+        },
+        "price": 29.99,
+        "rating": 4,
+        "enroll": 60,
+        "lessons": 65,
+        "review": 32,
+        "duration": 12,
+        "update": "May 26, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "tags": [
+            "academics",
+            "personal skill",
+            "language"
+        ],
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "categories": {
+            "name": "teaching academics",
+            "slug": "teaching-academics",
+            "desc": "High Education Level",
+            "icon": {
+                "iconOne": "/images/svg/teaching-academics.svg",
+                "iconTwo": "/images/svg/teaching-academics-img.svg",
+                "thumbnail": "/images/category/teaching-academics.jpg"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "title": "Mechanical Engineering and Electrical Engineering Explained",
+        "slug": "mechanical-engineering-and-electrical-engineering-explained",
+        "thumbnail": "/images/courses/courses-7.jpg",
+        "levels": {
+            "name": "All Levels",
+            "slug": "all-levels"
+        },
+        "instructor": {
+            "id": "alexpatrik126",
+            "name": "Alex Patrik"
+        },
+        "languages": {
+            "name": "Spanish",
+            "slug": "spanish",
+            "flag": "/images/svg/flag-07.svg",
+            "thumbnail": "/images/language/language-07.jpg"
+        },
+        "price": 39.00,
+        "rating": 5,
+        "enroll": 70,
+        "lessons": 48,
+        "review": 16,
+        "duration": 15,
+        "update": "August 16, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "health",
+            "fitness",
+            "Meditation",
+            "healthcare"
+        ],
+        "categories": {
+            "name": "health & fitness",
+            "slug": "health-fitness",
+            "desc": "Invest to Your Body",
+            "icon": {
+                "iconOne": "/images/svg/health-fitness.svg",
+                "iconTwo": "/images/svg/health-fitness-img.svg",
+                "thumbnail": "/images/category/health-fitness.jpg"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "title": "Learn Algebra The Easy Way! Do More, Stress Less",
+        "slug": "learn-algebra-the-easy-way-do-more-stress-less",
+        "thumbnail": "/images/courses/courses-8.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "lilyforster126",
+            "name": "Lily Forster"
+        },
+        "languages": {
+            "name": "Russian",
+            "slug": "russian",
+            "flag": "/images/svg/flag-08.svg",
+            "thumbnail": "/images/language/language-08.jpg"
+        },
+        "price": 80.00,
+        "rating": 5,
+        "enroll": 80,
+        "lessons": 36,
+        "review": 12,
+        "duration": 12,
+        "update": "November 26, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": false,
+        "popularity": true,
+        "tags": [
+            "data science",
+            "analytics",
+            "business",
+            "management"
+        ],
+        "categories": {
+            "name": "data science",
+            "slug": "data-science",
+            "desc": "Data is Everything",
+            "icon": {
+                "iconOne": "/images/svg/data-science.svg",
+                "iconTwo": "/images/svg/data-science-img.svg",
+                "thumbnail": "/images/category/data-science.jpg"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "title": "Essential Digital Tools for Student Engagement",
+        "slug": "essential-digital-tools-for-student-engagement",
+        "thumbnail": "/images/courses/courses-9.jpg",
+        "levels": {
+            "name": "Expert",
+            "slug": "expert"
+        },
+        "instructor": {
+            "id": "parra126",
+            "name": "Parra Victoria"
+        },
+        "languages": {
+            "name": "French",
+            "slug": "french",
+            "flag": "/images/svg/flag-02.svg",
+            "thumbnail": "/images/language/language-02.jpg"
+        },
+        "price": 70.00,
+        "rating": 5,
+        "enroll": 90,
+        "lessons": 66,
+        "review": 15,
+        "duration": 22,
+        "update": "May 20, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "tags": [
+            "business",
+            "finance",
+            "management",
+            "accountant"
+        ],
+        "categories": {
+            "name": "finance",
+            "slug": "finance",
+            "desc": "Fun & Challenging",
+            "icon": {
+                "iconOne": "/images/svg/finance.svg",
+                "iconTwo": "/images/svg/finance-img.svg",
+                "thumbnail": "/images/category/finance.jpg"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "title": "Adobe Lightroom For Beginners : Complete Photo/Image Editing",
+        "slug": "adobe-lightroom-for-beginners-complete-photo-image-editing",
+        "thumbnail": "/images/courses/courses-10.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "oliverporter126",
+            "name": "Oliver Porter"
+        },
+        "languages": {
+            "name": "German",
+            "slug": "german",
+            "flag": "/images/svg/flag-03.svg",
+            "thumbnail": "/images/language/language-03.jpg"
+        },
+        "price": 0,
+        "rating": 4,
+        "enroll": 100,
+        "lessons": 64,
+        "review": 18,
+        "duration": 6.5,
+        "update": "July 26, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "business",
+            "confidence",
+            "management",
+            "branding",
+            "leadership",
+            "productivity"
+        ],
+        "categories": {
+            "name": "personal development",
+            "slug": "personal-development",
+            "desc": "Develop Yourself",
+            "icon": {
+                "iconOne": "/images/svg/personal-development.svg",
+                "iconTwo": "/images/svg/personal-development-img.svg",
+                "thumbnail": "/images/category/personal-development.jpg"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "title": "The Ultimate Photography Course – Beginner to Advanced",
+        "slug": "the-ultimate-photography-course-beginner-to-advanced",
+        "thumbnail": "/images/courses/courses-11.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "bright126",
+            "name": "The Bright"
+        },
+        "languages": {
+            "name": "Japanese",
+            "slug": "japanese",
+            "flag": "/images/svg/flag-06.svg",
+            "thumbnail": "/images/language/language-06.jpg"
+        },
+        "price": 50.00,
+        "rating": 4,
+        "enroll": 110,
+        "lessons": 85,
+        "review": 12,
+        "duration": 9,
+        "update": "September 10, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "photography",
+            "branding",
+            "productivity",
+            "art"
+        ],
+        "categories": {
+            "name": "photography",
+            "slug": "photography",
+            "desc": "Take a Good Photo",
+            "icon": {
+                "iconOne": "/images/svg/photography.svg",
+                "iconTwo": "/images/svg/photography-img.svg",
+                "thumbnail": "/images/category/photography.jpg"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "title": "Internationally Accredited Diploma in Weight Loss",
+        "slug": "internationally-accredited-diploma-in-weight-loss",
+        "thumbnail": "/images/courses/courses-12.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "alexpatrik126",
+            "name": "Alex Patrik"
+        },
+        "languages": {
+            "name": "Spanish",
+            "slug": "spanish",
+            "flag": "/images/svg/flag-07.svg",
+            "thumbnail": "/images/language/language-07.jpg"
+        },
+        "price": 99.00,
+        "rating": 5,
+        "enroll": 120,
+        "lessons": 48,
+        "review": 32,
+        "duration": 10,
+        "update": "October 16, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "business",
+            "branding",
+            "marketing",
+            "communication",
+            "digital marketing",
+            "seo",
+            "social media"
+        ],
+        "categories": {
+            "name": "marketing",
+            "slug": "marketing",
+            "desc": "Promote Your Brands",
+            "icon": {
+                "iconOne": "/images/svg/marketing.svg",
+                "iconTwo": "/images/svg/marketing-img.svg",
+                "thumbnail": "/images/category/marketing.jpg"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "title": "Photography Masterclass: A Complete Guide to Photography",
+        "slug": "photography-masterclass-a-complete-guide-to-photography",
+        "thumbnail": "/images/courses/courses-13.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "lilyforster126",
+            "name": "Lily Forster"
+        },
+        "languages": {
+            "name": "English",
+            "slug": "english",
+            "flag": "/images/svg/flag-01.svg",
+            "thumbnail": "/images/language/language-01.jpg"
+        },
+        "price": 75.00,
+        "rating": 4,
+        "enroll": 130,
+        "lessons": 36,
+        "review": 12,
+        "duration": 15,
+        "update": "March 19, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "music",
+            "personal",
+            "instrument",
+            "art"
+        ],
+        "categories": {
+            "name": "music",
+            "slug": "music",
+            "desc": "Major or Minor",
+            "icon": {
+                "iconOne": "/images/svg/music.svg",
+                "iconTwo": "/images/svg/music-img.svg",
+                "thumbnail": "/images/category/music.jpg"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "title": "Boost Your Productivity: Adapt, Improve, Do!",
+        "slug": "boost-your-productivity-adapt-improve-do-14",
+        "thumbnail": "/images/courses/courses-14.jpg",
+        "levels": {
+            "name": "All Levels",
+            "slug": "all-levels"
+        },
+        "instructor": {
+            "id": "parra126",
+            "name": "Parra Victoria"
+        },
+        "languages": {
+            "name": "English",
+            "slug": "english",
+            "flag": "/images/svg/flag-01.svg",
+            "thumbnail": "/images/language/language-01.jpg"
+        },
+        "price": 39.00,
+        "rating": 4.5,
+        "enroll": 10,
+        "lessons": 36,
+        "review": 12,
+        "duration": 7.5,
+        "update": "November 26, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "development",
+            "design"
+        ],
+        "categories": {
+            "name": "development",
+            "slug": "development",
+            "desc": "Code with Confident",
+            "icon": {
+                "iconOne": "/images/svg/development.svg",
+                "iconTwo": "/images/svg/development-img.svg",
+                "thumbnail": "/images/category/development.jpg"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "title": "Succeed, Influence and Inspire as a Woman",
+        "slug": "succeed-influence-and-inspire-as-a-woman-15",
+        "thumbnail": "/images/courses/courses-15.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "maria126",
+            "name": "Maria Rose"
+        },
+        "languages": {
+            "name": "French",
+            "slug": "french",
+            "flag": "/images/svg/flag-02.svg",
+            "thumbnail": "/images/language/language-02.jpg"
+        },
+        "price": 29.99,
+        "rating": 4,
+        "enroll": 20,
+        "lessons": 55,
+        "review": 10,
+        "duration": 5,
+        "update": "December 12, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": false,
+        "popularity": true,
+        "tags": [
+            "business",
+            "branding",
+            "management"
+        ],
+        "categories": {
+            "name": "business",
+            "slug": "business",
+            "desc": "Improve your business",
+            "icon": {
+                "iconOne": "/images/svg/business.svg",
+                "iconTwo": "/images/svg/business-img.svg",
+                "thumbnail": "/images/category/business.jpg"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "title": "Building Influence at Work for professional",
+        "slug": "building-influence-at-work-for-professional-16",
+        "thumbnail": "/images/courses/courses-16.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "bright126",
+            "name": "The Bright"
+        },
+        "languages": {
+            "name": "German",
+            "slug": "german",
+            "flag": "/images/svg/flag-03.svg",
+            "thumbnail": "/images/language/language-03.jpg"
+        },
+        "price": 49.00,
+        "rating": 0,
+        "enroll": 30,
+        "lessons": 40,
+        "review": 0,
+        "duration": 6.5,
+        "update": "January 15, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "art",
+            "design"
+        ],
+        "categories": {
+            "name": "art & design",
+            "slug": "art-design",
+            "desc": "Fun & Challenging",
+            "icon": {
+                "iconOne": "/images/svg/art-design.svg",
+                "iconTwo": "/images/svg/art-design-img.svg",
+                "thumbnail": "/images/category/art-design.jpg"
+            }
+        }
+    },
+    {
+        "id": 17,
+        "title": "Global Education fas l Meeting for Everyone",
+        "slug": "global-education-fas-Meeting-for-everyone-17",
+        "thumbnail": "/images/courses/courses-17.jpg",
+        "levels": {
+            "name": "All Levels",
+            "slug": "all-levels"
+        },
+        "instructor": {
+            "id": "jhonson126",
+            "name": "Jhonson"
+        },
+        "languages": {
+            "name": "Italian",
+            "slug": "italian",
+            "flag": "/images/svg/flag-04.svg",
+            "thumbnail": "/images/language/language-04.jpg"
+        },
+        "price": 0,
+        "rating": 4,
+        "enroll": 40,
+        "lessons": 90,
+        "review": 22,
+        "duration": 8,
+        "update": "March 26, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "tags": [
+            "music",
+            "personal",
+            "instrument",
+            "art"
+        ],
+        "categories": {
+            "name": "music",
+            "slug": "music",
+            "desc": "Major or Minor",
+            "icon": {
+                "iconOne": "/images/svg/music.svg",
+                "iconTwo": "/images/svg/music-img.svg",
+                "thumbnail": "/images/category/music.jpg"
+            }
+        }
+    },
+    {
+        "id": 18,
+        "title": "London International Conference on Education",
+        "slug": "london-international-conference-on-education-18",
+        "thumbnail": "/images/courses/courses-18.jpg",
+        "levels": {
+            "name": "Expert",
+            "slug": "expert"
+        },
+        "instructor": {
+            "id": "oliverporter126",
+            "name": "Oliver Porter"
+        },
+        "languages": {
+            "name": "Korean",
+            "slug": "korean",
+            "flag": "/images/svg/flag-05.svg",
+            "thumbnail": "/images/language/language-05.jpg"
+        },
+        "price": 30.00,
+        "rating": 5,
+        "enroll": 50,
+        "lessons": 60,
+        "review": 8,
+        "duration": 4,
+        "update": "April 17, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "tags": [
+            "lifestyle",
+            "fashion"
+        ],
+        "categories": {
+            "name": "lifestyle",
+            "slug": "lifestyle",
+            "desc": "New Skills, New You",
+            "icon": {
+                "iconOne": "/images/svg/lifestyle.svg",
+                "iconTwo": "/images/svg/lifestyle-img.svg",
+                "thumbnail": "/images/category/lifestyle.jpg"
+            }
+        }
+    },
+    {
+        "id": 19,
+        "title": "Digital Skills: Using Information to Build Business",
+        "slug": "digital-skills-using-information-to-build-business-19",
+        "thumbnail": "/images/courses/courses-19.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "jack126",
+            "name": "Jack Heaven"
+        },
+        "languages": {
+            "name": "Japanese",
+            "slug": "japanese",
+            "flag": "/images/svg/flag-06.svg",
+            "thumbnail": "/images/language/language-06.jpg"
+        },
+        "price": 29.99,
+        "rating": 4,
+        "enroll": 60,
+        "lessons": 65,
+        "review": 32,
+        "duration": 12,
+        "update": "May 26, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "tags": [
+            "academics",
+            "personal skill",
+            "language"
+        ],
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "categories": {
+            "name": "teaching academics",
+            "slug": "teaching-academics",
+            "desc": "High Education Level",
+            "icon": {
+                "iconOne": "/images/svg/teaching-academics.svg",
+                "iconTwo": "/images/svg/teaching-academics-img.svg",
+                "thumbnail": "/images/category/teaching-academics.jpg"
+            }
+        }
+    },
+    {
+        "id": 20,
+        "title": "Creating Futures Through Technology Conference",
+        "slug": "creating-futures-through-technology-conference-20",
+        "thumbnail": "/images/courses/courses-20.jpg",
+        "levels": {
+            "name": "All Levels",
+            "slug": "all-levels"
+        },
+        "instructor": {
+            "id": "alexpatrik126",
+            "name": "Alex Patrik"
+        },
+        "languages": {
+            "name": "Spanish",
+            "slug": "spanish",
+            "flag": "/images/svg/flag-07.svg",
+            "thumbnail": "/images/language/language-07.jpg"
+        },
+        "price": 39.00,
+        "rating": 5,
+        "enroll": 70,
+        "lessons": 48,
+        "review": 16,
+        "duration": 15,
+        "update": "August 16, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "health",
+            "fitness",
+            "Meditation",
+            "healthcare"
+        ],
+        "categories": {
+            "name": "health & fitness",
+            "slug": "health-fitness",
+            "desc": "Invest to Your Body",
+            "icon": {
+                "iconOne": "/images/svg/health-fitness.svg",
+                "iconTwo": "/images/svg/health-fitness-img.svg",
+                "thumbnail": "/images/category/health-fitness.jpg"
+            }
+        }
+    },
+    {
+        "id": 21,
+        "title": "Digital Arts and Reshaping the Future with AI",
+        "slug": "digital-arts-and-reshaping-the-future-with-ai-21",
+        "thumbnail": "/images/courses/courses-21.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "lilyforster126",
+            "name": "Lily Forster"
+        },
+        "languages": {
+            "name": "Russian",
+            "slug": "russian",
+            "flag": "/images/svg/flag-08.svg",
+            "thumbnail": "/images/language/language-08.jpg"
+        },
+        "price": 80.00,
+        "rating": 5,
+        "enroll": 80,
+        "lessons": 36,
+        "review": 12,
+        "duration": 12,
+        "update": "November 26, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": false,
+        "popularity": true,
+        "tags": [
+            "data science",
+            "analytics",
+            "business",
+            "management"
+        ],
+        "categories": {
+            "name": "data science",
+            "slug": "data-science",
+            "desc": "Data is Everything",
+            "icon": {
+                "iconOne": "/images/svg/data-science.svg",
+                "iconTwo": "/images/svg/data-science-img.svg",
+                "thumbnail": "/images/category/data-science.jpg"
+            }
+        }
+    },
+    {
+        "id": 22,
+        "title": "Administrators and IT Professionals Strategies",
+        "slug": "administrators-and-it-professionals-strategies-22",
+        "thumbnail": "/images/courses/courses-22.jpg",
+        "levels": {
+            "name": "Expert",
+            "slug": "expert"
+        },
+        "instructor": {
+            "id": "parra126",
+            "name": "Parra Victoria"
+        },
+        "languages": {
+            "name": "French",
+            "slug": "french",
+            "flag": "/images/svg/flag-02.svg",
+            "thumbnail": "/images/language/language-02.jpg"
+        },
+        "price": 70.00,
+        "rating": 5,
+        "enroll": 90,
+        "lessons": 66,
+        "review": 15,
+        "duration": 22,
+        "update": "May 20, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": false,
+        "trending": true,
+        "popularity": true,
+        "tags": [
+            "business",
+            "finance",
+            "management",
+            "accountant"
+        ],
+        "categories": {
+            "name": "finance",
+            "slug": "finance",
+            "desc": "Fun & Challenging",
+            "icon": {
+                "iconOne": "/images/svg/finance.svg",
+                "iconTwo": "/images/svg/finance-img.svg",
+                "thumbnail": "/images/category/finance.jpg"
+            }
+        }
+    },
+    {
+        "id": 23,
+        "title": "hings to Do Virtual Celebration Brunch and Book",
+        "slug": "things-to-do-virtual-celebration-brunch-and-book-23",
+        "thumbnail": "/images/courses/courses-23.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "oliverporter126",
+            "name": "Oliver Porter"
+        },
+        "languages": {
+            "name": "German",
+            "slug": "german",
+            "flag": "/images/svg/flag-03.svg",
+            "thumbnail": "/images/language/language-03.jpg"
+        },
+        "price": 0,
+        "rating": 4,
+        "enroll": 100,
+        "lessons": 64,
+        "review": 18,
+        "duration": 6.5,
+        "update": "July 26, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "business",
+            "confidence",
+            "management",
+            "branding",
+            "leadership",
+            "productivity"
+        ],
+        "categories": {
+            "name": "personal development",
+            "slug": "personal-development",
+            "desc": "Develop Yourself",
+            "icon": {
+                "iconOne": "/images/svg/personal-development.svg",
+                "iconTwo": "/images/svg/personal-development-img.svg",
+                "thumbnail": "/images/category/personal-development.jpg"
+            }
+        }
+    },
+    {
+        "id": 24,
+        "title": "How to Photograph Events Without Bothering the Guests",
+        "slug": "how-to-photograph-events-without-bothering-the-guests-24",
+        "thumbnail": "/images/courses/courses-24.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "bright126",
+            "name": "The Bright"
+        },
+        "languages": {
+            "name": "Japanese",
+            "slug": "japanese",
+            "flag": "/images/svg/flag-06.svg",
+            "thumbnail": "/images/language/language-06.jpg"
+        },
+        "price": 50.00,
+        "rating": 4,
+        "enroll": 110,
+        "lessons": 85,
+        "review": 12,
+        "duration": 9,
+        "update": "September 10, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "photography",
+            "branding",
+            "productivity",
+            "art"
+        ],
+        "categories": {
+            "name": "photography",
+            "slug": "photography",
+            "desc": "Take a Good Photo",
+            "icon": {
+                "iconOne": "/images/svg/photography.svg",
+                "iconTwo": "/images/svg/photography-img.svg",
+                "thumbnail": "/images/category/photography.jpg"
+            }
+        }
+    },
+    {
+        "id": 25,
+        "title": "Computing Education Practice Conference 2023",
+        "slug": "computing-education-practice-conference-20223-25",
+        "thumbnail": "/images/courses/courses-25.jpg",
+        "levels": {
+            "name": "Intermediate",
+            "slug": "intermediate"
+        },
+        "instructor": {
+            "id": "alexpatrik126",
+            "name": "Alex Patrik"
+        },
+        "languages": {
+            "name": "Spanish",
+            "slug": "spanish",
+            "flag": "/images/svg/flag-07.svg",
+            "thumbnail": "/images/language/language-07.jpg"
+        },
+        "price": 99.00,
+        "rating": 5,
+        "enroll": 120,
+        "lessons": 48,
+        "review": 32,
+        "duration": 10,
+        "update": "October 16, 2021",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "business",
+            "branding",
+            "marketing",
+            "communication",
+            "digital marketing",
+            "seo",
+            "social media"
+        ],
+        "categories": {
+            "name": "marketing",
+            "slug": "marketing",
+            "desc": "Promote Your Brands",
+            "icon": {
+                "iconOne": "/images/svg/marketing.svg",
+                "iconTwo": "/images/svg/marketing-img.svg",
+                "thumbnail": "/images/category/marketing.jpg"
+            }
+        }
+    },
+    {
+        "id": 26,
+        "title": "Photography Masterclass: A Complete Guide",
+        "slug": "photography-masterclass-a-complete-guide-26",
+        "thumbnail": "/images/courses/courses-26.jpg",
+        "levels": {
+            "name": "Beginner",
+            "slug": "beginner"
+        },
+        "instructor": {
+            "id": "lilyforster126",
+            "name": "Lily Forster"
+        },
+        "languages": {
+            "name": "English",
+            "slug": "english",
+            "flag": "/images/svg/flag-01.svg",
+            "thumbnail": "/images/language/language-01.jpg"
+        },
+        "price": 75.00,
+        "rating": 4,
+        "enroll": 130,
+        "lessons": 36,
+        "review": 12,
+        "duration": 15,
+        "update": "March 19, 2022",
+        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "featured": true,
+        "trending": true,
+        "popularity": false,
+        "tags": [
+            "music",
+            "personal",
+            "instrument",
+            "art"
+        ],
+        "categories": {
+            "name": "music",
+            "slug": "music",
+            "desc": "Major or Minor",
+            "icon": {
+                "iconOne": "/images/svg/music.svg",
+                "iconTwo": "/images/svg/music-img.svg",
+                "thumbnail": "/images/category/music.jpg"
+            }
+        }
+    }
+]

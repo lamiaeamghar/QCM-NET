@@ -1,0 +1,157 @@
+[
+    {
+        "id": 1,
+        "uri": "/",
+        "label": "Home",
+        "submenu": [
+            {
+                "uri": "/",
+                "label": "Main Demo"
+            },
+            {
+                "uri": "/course-hub",
+                "label": "Course Hub"
+            },
+            {
+                "uri": "/online-academy",
+                "label": "Online Academy"
+            },
+            {
+                "uri": "/education-center",
+                "label": "Education Center"
+            },
+            {
+                "uri": "/university",
+                "label": "University"
+            },
+            {
+                "uri": "/language-academic",
+                "label": "Language Academic"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "uri": "/courses",
+        "label": "Courses",
+        "submenu": [
+            {
+                "uri": "/courses",
+                "label": "List Left Sidebar"
+            },
+            {
+                "uri": "/courses/grid-left-sidebar",
+                "label": "Grid Left Sidebar"
+            },
+            {
+                "uri": "/courses/basic-grid-layout",
+                "label": "Basic Grid Layout"
+            },
+            {
+                "uri": "/courses/basic-list-layout",
+                "label": "Basic List Layout"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "uri": "/blog",
+        "label": "Blog",
+        "submenu": [
+            {
+                "uri": "/blog",
+                "label": "Blog Right Sidebar"
+            },
+            {
+                "uri": "/blog/blog-left-sidebar",
+                "label": "Blog Left Sidebar"
+            },
+            {
+                "uri": "/blog/blog-grid-basic",
+                "label": "Grid Basic Layout"
+            },
+            {
+                "uri": "/blog/blog-list-layout",
+                "label": "Blog List Layout"
+            },
+            {
+                "uri": "/blog/learning-management-system-design-tips-for-better-eLearning",
+                "label": "Blog Details"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "uri": "",
+        "label": "Pages",
+        "submenu": [
+            {
+                "uri": "/instructors",
+                "label": "Instructors"
+            },
+            {
+                "uri": "/become-an-instructor",
+                "label": "Become An Instructor"
+            },
+            {
+                "uri": "/about",
+                "label": "About Us"
+            },
+            {
+                "uri": "/about-02",
+                "label": "About Us 02"
+            },
+            {
+                "uri": "/contact-us",
+                "label": "Contact Us"
+            },
+            {
+                "uri": "/contact-us-02",
+                "label": "Contact Us 02"
+            },
+            {
+                "uri": "/membership-plans",
+                "label": "Membership Plans"
+            },
+            {
+                "uri": "/faqs",
+                "label": "FAQs"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "uri": "",
+        "label": "Features",
+        "submenu": [
+            {
+                "uri": "/event",
+                "label": "Event Listing 01"
+            },
+            {
+                "uri": "/event/event-grid",
+                "label": "Event Listing 02"
+            },
+            {
+                "uri": "/event/event-list-sidebar",
+                "label": "Event Listing 03"
+            },
+            {
+                "uri": "/event/event-list",
+                "label": "Event Listing 04"
+            },
+            {
+                "uri": "/event/london-international-conference-on-education",
+                "label": "Event Details"
+            },
+            {
+                "uri": "/zoom-meetings",
+                "label": "Zoom Meetings"
+            },
+            {
+                "uri": "/zoom-meetings/marketing-committee-meeting",
+                "label": "Zoom Meeting Details"
+            }
+        ]
+    }
+]

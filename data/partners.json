@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "logo": "/images/partners-logo/client-logo-01.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 2,
+        "logo": "/images/partners-logo/client-logo-02.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 3,
+        "logo": "/images/partners-logo/client-logo-03.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 4,
+        "logo": "/images/partners-logo/client-logo-04.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 5,
+        "logo": "/images/partners-logo/client-logo-05.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 6,
+        "logo": "/images/partners-logo/client-logo-06.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 7,
+        "logo": "/images/partners-logo/client-logo-07.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 8,
+        "logo": "/images/partners-logo/client-logo-08.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 9,
+        "logo": "/images/partners-logo/client-logo-09.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 10,
+        "logo": "/images/partners-logo/client-logo-10.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 11,
+        "logo": "/images/partners-logo/client-logo-11.jpg",
+        "name": "Partner Company Logo"
+    },
+    {
+        "id": 12,
+        "logo": "/images/partners-logo/client-logo-12.jpg",
+        "name": "Partner Company Logo"
+    }
+]
