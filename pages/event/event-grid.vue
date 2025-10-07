@@ -33,7 +33,7 @@
 					<div v-if="getPaginateCount > 1">
 						<pagination
 							v-model="currentPage"
-							class="edumall-pagination"
+							class="EduMall-pagination"
 							:per-page="perPage"
 							:records="events.length"
 							:page-count="getPaginateCount"

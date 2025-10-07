@@ -37,8 +37,8 @@
 							<h5 class="md:pl-5">Email</h5>
 						</div>
 						<div class="text-light">
-							<p class="mb-2">support@edumall.com</p>
-							<p class="mb-2">hi@edumall.com</p>
+							<p class="mb-2">support@QCM-NET.com</p>
+							<p class="mb-2">hi@QCM-NET.com</p>
 						</div>
 					</div>
 				</div>

@@ -1,11 +1,10 @@
 <template>
 	<article class="course-article group sm:flex">
-		<div class="rounded overflow-hidden sm:w-[230px] lg:w-[320px] sm:h-[202px] flex-shrink-0">
-			<n-link :to="`/courses/${course.slug}`">
+<div class="rounded overflow-hidden sm:w-[230px] lg:w-[320px] sm:h-[202px] flex-shrink-0">			<n-link :to="`/courses/${course.slug}`">
 				<img
 					:src="course.thumbnail"
 					:alt="course.title"
-					class="w-full group-hover:scale-110 transition-all duration-500"
+					class="w-full group-hover:scale-110 transition-all duration-500 sm:h-[202px] flex-shrink-0 object-cover object-center"
 				>
 			</n-link>
 		</div>

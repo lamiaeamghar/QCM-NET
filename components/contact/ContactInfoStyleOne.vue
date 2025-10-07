@@ -23,7 +23,7 @@
 						<h5 class="mb-5">Contact</h5>
 						<p class="mb-2">Mobile: <strong class="text-heading">(+88) - 1990 - 6886</strong></p>
 						<p class="mb-2">Hotline: <strong class="text-heading">1800 - 1102</strong></p>
-						<p class="mb-2">Mail: contact@edumall.com</p>
+						<p class="mb-2">Mail: contact@QCM-NET.com</p>
 					</div>
 				</div>
 				<div class="flex">

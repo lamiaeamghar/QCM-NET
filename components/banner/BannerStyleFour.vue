@@ -2,7 +2,7 @@
 	<div class="py-section">
 		<div class="container">
 			<div class="section-title mb-13 text-center">
-				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px]">What's Happening In <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">EduMall</mark></h2>
+				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px]">What's Happening In <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">QCM-NET</mark></h2>
 				<p>Show all Featured courses and News for your students</p>
 			</div>
 

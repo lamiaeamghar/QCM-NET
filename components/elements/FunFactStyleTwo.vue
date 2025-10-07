@@ -2,7 +2,7 @@
 	<div class="py-section overflow-hidden">
 		<div class="container">
 			<div class="section-title mb-20 text-center">
-				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px] text-primary">Why choose EduMall</h2>
+				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px] text-primary">Why choose QCM-NET</h2>
 				<h3 class="text-2xl">Language Academic?</h3>
 			</div>
 			<div
@@ -59,7 +59,7 @@ export default {
 				{
 					id: 2,
 					count: 2500,
-					title: "Learners Enrolled in <br> EduMall Courses",
+					title: "Learners Enrolled in <br> QCM-NET Courses",
 					icon: "/images/svg/students-enroll.svg",
 				},
 				{

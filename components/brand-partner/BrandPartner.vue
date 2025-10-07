@@ -10,11 +10,11 @@
 						sub-title="You can list your partners or instructors's brands here to show off your site's reputation and students can trust you more."
 					/>
 
-					<ButtonDefault
+					<!-- <ButtonDefault
 						label="View all partners"
 						link="/"
 						variation-class="bg-white-500 text-primary hover:bg-primary hover:text-white"
-					/>
+					/> -->
 				</div>
 				<div class="col-span-12 lg:col-span-9">
 					<div class="partner-logo-wrapper group mt-12 lg:mt-0">
@@ -45,7 +45,7 @@ import partners from "~/data/partners";
 export default {
 	components: {
 		SectionTitleStyleOne: () => import("~/components/elements/SectionTitleStyleOne"),
-		ButtonDefault: () => import("~/components/elements/ButtonDefault"),
+		// ButtonDefault: () => import("~/components/elements/ButtonDefault"),
 	},
 
 	data() {

@@ -11,10 +11,10 @@
 							<n-link to="/privacy-policy">Privacy Policy</n-link>
 						</li>
 					</ul>
-					<p class="text-light mt-3 sm:mt-0">&copy; 2023 <span> EduMall </span> Made with <i class="fa fa-heart text-red-600"></i> by <n-link
+					<p class="text-light mt-3 sm:mt-0">&copy; 2023 <span> QCM-NET </span> Made with <i class="fa fa-heart text-red-600"></i> by <n-link
 							to="/"
 							class="hover:text-primary"
-						>BootXperts</n-link>
+						>ENSI students' (3GINFO-TA)</n-link>
 					</p>
 				</div>
 			</div>

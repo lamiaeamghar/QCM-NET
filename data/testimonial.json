@@ -1,42 +1,42 @@
 [
-    {
-        "id": 1,
-        "name": "Oliver Maya",
-        "designation": "Designer, HasThemes",
-        "title": "Great Quality!",
-        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
-        "thumbnail": "/images/avatar/avatar-01.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Bright Hossain",
-        "designation": "Developer, HasThemes",
-        "title": "Code Quality!",
-        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
-        "thumbnail": "/images/avatar/avatar-02.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Luvic Dubble",
-        "designation": "Marketer, HasThemes",
-        "title": "Customer support",
-        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
-        "thumbnail": "/images/avatar/avatar-03.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Mina Hollace",
-        "designation": "Designer, HasThemes",
-        "title": "Great Quality!",
-        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
-        "thumbnail": "/images/avatar/avatar-04.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Maya Hossain",
-        "designation": "Analyst, HasThemes",
-        "title": "Code Quality!",
-        "review": "I wanted to place a review since their support helped me within a day or so, which is nice! Thanks and 5 stars!",
-        "thumbnail": "/images/avatar/avatar-03.jpg"
-    }
+  {
+    "id": 1,
+    "name": "Hassan El Idrissi",
+    "designation": "Network Engineer, TechMorocco",
+    "title": "Perfect for CCNA Prep!",
+    "review": "Those courses made mastering network topologies easy and helped me prepare for my CCNA.",
+    "thumbnail": "https://img.freepik.com/free-photo/smiley-man-with-arms-crossed-posing_23-2148306586.jpg?t=st=1759875615~exp=1759879215~hmac=022c14a2ed0f4f9e168209fdf1cbe1607ed9e4fd1828480288e446f913f149b0&w=1480"
+  },
+  {
+    "id": 2,
+    "name": "Soukaina Zaim",
+    "designation": "Systems Administrator, UM6P",
+    "title": "Relevant and Practical!",
+    "review": "This helped me connect OSI concepts with real troubleshooting. The quizzes are practical and perfect.",
+    "thumbnail": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1759875810~exp=1759879410~hmac=048abbc22fdd89767708dc42e890a040b8df99d1b036375eb1a28dac84fbea79&w=1480"
+  },
+  {
+    "id": 3,
+    "name": "Rachid Bouziane",
+    "designation": "Cybersecurity Analyst, MCISE",
+    "title": "Best Security Training!",
+    "review": "QCM Net’s network security quizzes taught me firewalls and encryption fast. Perfect for anyone wanting to learn.",
+    "thumbnail": "https://img.freepik.com/free-photo/confident-handsome-guy-posing-against-white-wall_176420-32936.jpg?t=st=1759875524~exp=1759879124~hmac=3af7dcdf73be0947ed945a8be8e93a736d24c24258d610d6fa76e8b809725431&w=1480"
+  },
+  {
+    "id": 4,
+    "name": "Nadia Chraibi",
+    "designation": "IT Consultant, University Hassan II",
+    "title": "Hands-On and Clear!",
+    "review": "QCM Net simplified LAN/WAN concepts for my consulting work. The platform made learning much easier.",
+    "thumbnail": "https://img.freepik.com/free-photo/young-determined-armenian-curlyhaired-female-university-student-listen-carefully-asignment-look-confident-ready-task-cross-hands-chest-smiling-selfassured-standing-white-background_176420-56066.jpg?t=st=1759875759~exp=1759879359~hmac=bca9ff1b2063c626040c6d1c77646ab82792e562cecab5b25b638da141117f30&w=1480"
+  },
+  {
+    "id": 5,
+    "name": "Abdelkader Tazi",
+    "designation": "Cloud Architect, UIR - Rabat",
+    "title": "Boosted My Cloud Skills!",
+    "review": "This helped me strengthen my understanding of cloud. The QCMs are ideal for tech community.",
+    "thumbnail": "https://img.freepik.com/free-photo/portrait-young-man_23-2148133415.jpg?t=st=1759875730~exp=1759879330~hmac=4ceaa40c63b02126a9338eb034a5afb31ae38d568b1fbcae1150cdbb93f884a4&w=1480"
+  }
 ]

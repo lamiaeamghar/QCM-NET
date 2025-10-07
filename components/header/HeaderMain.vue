@@ -11,7 +11,7 @@
 					</n-link>
 				</div>
 
-				<div class="hidden lg:block pl-7 relative before:contents-[] before:absolute before:w-[1px] before:h-8 before:bg-[#d9dee3] before:top-1/2 before:left-0 before:-translate-y-1/2">
+				<!-- <div class="hidden lg:block pl-7 relative before:contents-[] before:absolute before:w-[1px] before:h-8 before:bg-[#d9dee3] before:top-1/2 before:left-0 before:-translate-y-1/2">
 					<button class="flex items-center text-tangaroa text-normal font-semibold group hover:text-primary">
 						<div class="mr-4">
 							<inline-svg
@@ -32,10 +32,10 @@
 							</li>
 						</ul>
 					</button>
-				</div>
+				</div> -->
 
 				<div class="header-inner flex items-center justify-end flex-grow">
-					<HeaderSearchBox />
+					<!-- <HeaderSearchBox /> -->
 
 					<div class="header-navigation hidden xl:block">
 						<NavigationMain />
@@ -100,7 +100,7 @@ import courses from "~/data/courses.json";
 export default {
 	components: {
 		NavigationMain: () => import("~/components/header/NavigationMain"),
-		HeaderSearchBox: () => import("~/components/elements/HeaderSearchBox"),
+		// HeaderSearchBox: () => import("~/components/elements/HeaderSearchBox"),
 		OffCanvasMobileMenu: () => import("~/components/header/OffCanvasMobileMenu"),
 		OffcanvasSearchBox: () => import("~/components/header/OffcanvasSearchBox"),
 	},

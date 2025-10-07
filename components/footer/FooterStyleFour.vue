@@ -24,11 +24,11 @@
 								<p class="text-base text-light font-semibold">10:30 - 22:00</p>
 							</div>
 						</div>
-						<p class="text-light mt-5">&copy; 2023 <span> EduMall </span> Made with <i class="fa fa-heart  text-red-500"></i> by <a
+						<p class="text-light mt-5">&copy; 2025 <span> QCM-NET </span> Made with <i class="fa fa-heart  text-red-500"></i> by <a
 								href="#"
 								class="hover:text-primary"
 								target="_blank"
-							>BootXperts</a>
+							>ENSI Studens' (3GINFO-TA)</a>
 						</p>
 					</div>
 				</div>

@@ -1,9 +1,9 @@
 
 
 @font-face {
-    font-family: Edumallicon;
-    src: url(../fonts/edumi/Edumall.eot?9ajmsy);
-    src: url(../fonts/edumi/Edumall.eot?9ajmsy#iefix) format("embedded-opentype"), url(../fonts/edumi/Edumall.ttf?9ajmsy) format("truetype"), url(../fonts/edumi/Edumall.woff?9ajmsy) format("woff"), url(../fonts/edumi/Edumall.svg?9ajmsy#Edumall) format("svg");
+    font-family: EduMallicon;
+    src: url(../fonts/edumi/EduMall.eot?9ajmsy);
+    src: url(../fonts/edumi/EduMall.eot?9ajmsy#iefix) format("embedded-opentype"), url(../fonts/edumi/EduMall.ttf?9ajmsy) format("truetype"), url(../fonts/edumi/EduMall.woff?9ajmsy) format("woff"), url(../fonts/edumi/EduMall.svg?9ajmsy#EduMall) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block
@@ -11,7 +11,7 @@
 
 [class*=" edumi-"],
 [class^=edumi-] {
-    font-family: Edumallicon !important;
+    font-family: EduMallicon !important;
     speak: never;
     font-style: normal;
     font-weight: 400;

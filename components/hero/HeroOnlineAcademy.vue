@@ -89,7 +89,7 @@
 		</div>
 
 		<ShapeWithAnimation
-			img-src="/images/shape/edumall-shape-grid-dots-02.png"
+			img-src="/images/shape/EduMall-shape-grid-dots-02.png"
 			data-depth="1.2"
 			class-list="absolute right-[300px] bottom-[60%] top-auto left-auto -z-10"
 		/>
@@ -104,12 +104,12 @@
 			shape-style-class-list="rounded-full border border-[#CAD0FA] w-[275px] h-[275px]"
 		/>
 		<ShapeWithAnimation
-			img-src="/images/shape/edumall-shape-01.png"
+			img-src="/images/shape/EduMall-shape-01.png"
 			data-depth="-0.6"
 			class-list="absolute right-[2%] bottom-[10%] top-auto left-auto w-[100px] lg:w-auto -z-10"
 		/>
 		<ShapeWithAnimation
-			img-src="/images/shape/edumall-shape-01.png"
+			img-src="/images/shape/EduMall-shape-01.png"
 			data-depth="1.8"
 			class-list="absolute left-[50px] bottom-1/4 top-auto w-[100px] lg:w-auto -z-10"
 		/>

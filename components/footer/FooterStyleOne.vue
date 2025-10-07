@@ -112,10 +112,10 @@
 								<i class="fab fa-youtube"></i>
 							</a>
 						</div>
-						<p class="text-light my-4">&copy; 2023 <span> EduMall </span> Made with <i class="fa fa-heart  text-red-500"></i> by <a
+						<p class="text-light my-4">&copy; 2025 <span> QCM-NET </span> Made with <i class="fa fa-heart  text-red-500"></i> by <a
 								href="#"
 								class="hover:text-primary"
-							>BootXperts</a>
+							>ENSI Students' (3GINFO-TA)</a>
 						</p>
 						<ul class="flex justify-center space-x-10">
 							<li class="font-medium text-light hover:text-primary">

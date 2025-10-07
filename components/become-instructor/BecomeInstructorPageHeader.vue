@@ -15,7 +15,7 @@
 				<div class="col-span-12 lg:col-span-6">
 					<div class="mt-5 lg:-mt-5 mb-5 lg:mb-0">
 						<h1 class="text-2xl md:text-[40px] mb-2">Become an Instructor</h1>
-						<p>Top instructors from around the world teach millions of students on EduMall.</p>
+						<p>Top instructors from around the world teach millions of students on QCM-NET.</p>
 						<ButtonDefault
 							label="Start teaching today"
 							link="/contact-us"

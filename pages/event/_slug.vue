@@ -151,7 +151,7 @@
 									<span class="block font-semibold text-light mb-1.5">Website</span>
 									<span class="block font-semibold text-heading">
 										<a
-											href="https://edumall.hasthemes.com"
+											href="https://EduMall.hasthemes.com"
 											target="_blank"
 											class="hover:text-primary"
 										>{{ event.website }}</a>
@@ -181,9 +181,9 @@
 								<h6 class="mb-3.5">We're always eager to hear from you.</h6>
 								<p class="text-light mb-2">If you’d like to learn more about us or have a general comments and suggestions about the site, email us at</p>
 								<a
-									href="mailto://contact@edumall.com"
+									href="mailto://contact@QCM-NET.com"
 									class="text-xl text-primary"
-								>contact@edumall.com</a>
+								>contact@QCM-NET.com</a>
 							</div>
 						</div>
 					</div>

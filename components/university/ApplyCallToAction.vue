@@ -14,7 +14,7 @@
 				<div class="col-span-12 lg:col-span-7">
 					<div class="bg-[#F4F9FF] rounded -mt-5 lg:mt-15 pt-12 pb-10 lg:pb-24">
 						<div class="lg:max-w-[340px] md:ml-7.5 lg:ml-auto lg:mr-16 text-center md:text-left px-2 sm:px-5 md:px-0">
-							<h2 class="text-3xl lg:text-[34px] mb-6">Apply to EduMall</h2>
+							<h2 class="text-3xl lg:text-[34px] mb-6">Apply to QCM-NET</h2>
 							<p class="text-lg text-light leading-relaxed mb-10">A place to provide students with enough knowledge and skills in a complex world.</p>
 							<n-link
 								to="/"

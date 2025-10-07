@@ -5,7 +5,7 @@
 				<div class="col-span-12 lg:col-span-3">
 					<div class="section-title mb-10 xl:pr-10">
 						<h6 class="text-base text-primary uppercase mb-5">blog update</h6>
-						<h2 class="-mt-2.5 text-2xl md:text-3xl">Edumall's News and <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2 before:-z-10">Blogs</mark> </h2>
+						<h2 class="-mt-2.5 text-2xl md:text-3xl">QCM-NET's News and <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2 before:-z-10">Blogs</mark> </h2>
 					</div>
 					<ul class="list space-y-5">
 						<li

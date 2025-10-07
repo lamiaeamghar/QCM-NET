@@ -13,11 +13,11 @@
 							>
 						</n-link>
 						<p class="mt-8">Lorem ipsum dolor sit amet, consectetur adipisc ing elit. Nunc maximus, nulla utlaoki comm odo sagittis.</p>
-						<p class="text-light mt-7 lg:mt-10">&copy; 2023 <span> EduMall </span> Made with <i class="fa fa-heart  text-red-500"></i> by <a
+						<p class="text-light mt-7 lg:mt-10">&copy; 2025 <span> QCM-NET </span> Made with <i class="fa fa-heart  text-red-500"></i> by <a
 								href="#"
 								class="hover:text-primary"
 								target="_blank"
-							>BootXperts</a>
+							>ENSI Students' (3GINFO-TA)</a>
 						</p>
 					</div>
 				</div>

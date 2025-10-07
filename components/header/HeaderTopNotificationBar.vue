@@ -5,12 +5,7 @@
 	>
 		<div class="container">
 			<div class="text-center text-white p-3">
-				<p>Keep learning with free resources during <strong>COVID-19.</strong>
-					<a
-						href="#"
-						class=" text-[#ffc221] font-semibold"
-					>Learn more</a>
-				</p>
+				<p>Continue learning with high-quality resources on <strong>QCM-NET</strong>.</p>
 			</div>
 			<button
 				class="text-lg text-white hover:text-secondary absolute top-1/2 -translate-y-1/2 right-10"

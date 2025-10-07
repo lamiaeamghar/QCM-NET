@@ -1,36 +1,5 @@
 [
     {
-        "id": 1,
-        "uri": "/",
-        "label": "Demo",
-        "submenu": [
-            {
-                "uri": "/",
-                "label": "Main Demo"
-            },
-            {
-                "uri": "/course-hub",
-                "label": "Course Hub"
-            },
-            {
-                "uri": "/online-academy",
-                "label": "Online Academy"
-            },
-            {
-                "uri": "/education-center",
-                "label": "Education Center"
-            },
-            {
-                "uri": "/university",
-                "label": "University"
-            },
-            {
-                "uri": "/language-academic",
-                "label": "Language Academic"
-            }
-        ]
-    },
-    {
         "id": 2,
         "uri": "/become-an-instructor",
         "label": "Become an Instructor"

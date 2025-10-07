@@ -3,7 +3,7 @@
         <div class="container">
             <div class="grid grid-cols-12 lg:gap-10">
                 <div class="col-span-12 lg:col-span-3">
-                    <SectionTitleStyleOne class="mb-10" title="People Say About" highlight-title="EduMall" sub-title="One-stop solution for any eLearning center, online courses. People love EduMall because they can create their sites with ease here." />
+                    <SectionTitleStyleOne class="mb-10" title="People Say About" highlight-title="QCM-NET" sub-title="One-stop solution for any eLearning center, online courses. People love QCM-NET because they can create their sites with ease here." />
 
                     <ButtonDefault label="View all" link="/" variation-class="bg-[#f5f5f5] text-primary hover:bg-primary hover:text-white" />
                 </div>

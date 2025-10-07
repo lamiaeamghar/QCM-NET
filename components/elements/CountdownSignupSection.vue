@@ -6,7 +6,7 @@
 					<div class="test">
 						<div class="section-title mb-5 lg:mb-13">
 							<h2 class="-mt-2.5 mb-3 text-2xl md:text-[32px]"><mark class="bg-transparent text-primary font-bold relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">FREE</mark> Resources Learning German for Beginner</h2>
-							<p>Learning new languages, connect to the world and become a global citizen with EduMall</p>
+							<p>Learning new languages, connect to the world and become a global citizen with QCM-NET</p>
 						</div>
 						<Countdown deadline="october 31, 2023"></Countdown>
 					</div>

@@ -40,7 +40,7 @@
 				</div>
 			</div>
 			<ShapeWithAnimation
-				img-src="/images/shape/edumall-shape-grid-dots.png"
+				img-src="/images/shape/EduMall-shape-grid-dots.png"
 				data-depth="0.8"
 				class-list="absolute right-1/3 bottom-12 top-auto left-auto -z-10"
 			/>
@@ -55,7 +55,7 @@
 				shape-style-class-list="rounded-full border border-[#CAD0FA] w-[365px] h-[365px]"
 			/>
 			<ShapeWithAnimation
-				img-src="/images/shape/edumall-shape-01.png"
+				img-src="/images/shape/EduMall-shape-01.png"
 				data-depth="0.6"
 				class-list="hidden sm:block absolute right-[10%] bottom-[30%] top-auto left-auto -z-10"
 			/>

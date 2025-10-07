@@ -33,7 +33,7 @@
 		<ShapeWithAnimation
 			data-depth="3"
 			class-list="absolute top-0 lg:top-16 left-0 lg:left-16 -z-10 w-[100px] lg:w-auto"
-			img-src="/images/shape/edumall-shape-01.png"
+			img-src="/images/shape/EduMall-shape-01.png"
 		/>
 		<ShapeWithAnimation
 			data-depth="1"

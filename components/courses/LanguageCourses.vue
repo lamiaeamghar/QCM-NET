@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="section-title mb-13 text-center">
 				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px]"><mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">Language</mark> Courses</h2>
-				<p>Learning new languages, connect to the world and <br> become a global citizen with EduMall</p>
+				<p>Learning new languages, connect to the world and <br> become a global citizen with QCM-NET</p>
 			</div>
 
 			<div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-7.5">

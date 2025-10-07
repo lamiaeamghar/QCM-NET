@@ -41,7 +41,7 @@
 										>
 										<p class="pl-2">
 											<strong>PayPal</strong>
-											in****r@edumall.com
+											in****r@EduMall.com
 										</p>
 									</div>
 								</td>
@@ -68,7 +68,7 @@
 										>
 										<p class="pl-2">
 											<strong>PayPal</strong>
-											in****r@edumall.com
+											in****r@EduMall.com
 										</p>
 									</div>
 								</td>

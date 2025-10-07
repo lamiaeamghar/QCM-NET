@@ -2,7 +2,7 @@
 	<div class="py-section overflow-hidden">
 		<div class="custom-container">
 			<div class="section-title mb-10 text-center">
-				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px]">EduMall <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">Events</mark></h2>
+				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px]">QCM-NET <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">Events</mark></h2>
 				<p>What's happening on campus</p>
 			</div>
 			<div class="relative mt-12 lg:mt-0 swiper-button-hover">

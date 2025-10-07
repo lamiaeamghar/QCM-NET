@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="section-top md:flex justify-between mb-8 md:mb-8">
 				<SectionTitleStyleOne
-					title="EduMall"
+					title="QCM-NET"
 					highlight-title="Guides"
 					class="mb-8 md:mb-0"
 				/>
@@ -65,7 +65,7 @@ export default {
 				{
 					id: 4,
 					title: "Master at Different Areas",
-					desc: "With EduMall's thousands of courses instructed by top experts",
+					desc: "With QCM-NET's thousands of courses instructed by top experts",
 					icon: "/images/icon/image-box-04.png",
 				},
 			],

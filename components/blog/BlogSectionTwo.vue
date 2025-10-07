@@ -2,8 +2,8 @@
 	<div class="bg-white-800 py-section">
 		<div class="custom-container">
 			<div class="section-title mb-10 text-center">
-				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px]">EduMall <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">Today</mark></h2>
-				<p>The latest news from EduMall</p>
+				<h2 class="-mt-2.5 mb-3 text-2xl md:text-3xl lg:text-[40px]">QCM-NET <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">Today</mark></h2>
+				<p>The latest news from QCM-NET</p>
 			</div>
 
 			<div class="grid grid-cols-12 gap-7.5">

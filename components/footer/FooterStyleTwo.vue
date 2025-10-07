@@ -22,7 +22,7 @@
 							<div class="mt-6">
 								<p class="font-semibold leading-loose mb-0">58 Howard Street #2 San Francisco</p>
 								<p class="font-semibold leading-loose hover:text-primary">
-									<a href="mailto:contact@edumall.com">contact@edumall.com</a>
+									<a href="mailto:contact@QCM-NET.com">contact@QCM-NET.com</a>
 								</p>
 							</div>
 

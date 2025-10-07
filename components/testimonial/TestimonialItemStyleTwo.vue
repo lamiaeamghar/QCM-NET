@@ -12,7 +12,7 @@
 			<div class="mt-5">
 				<div>
 					<h6 class="text-sm font-bold">{{ testimonial.name }}</h6>
-					<p class="mt-1">/ {{ testimonial.designation }}</p>
+					<p class="mt-1"> {{ testimonial.designation }}</p>
 				</div>
 			</div>
 		</div>

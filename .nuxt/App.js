@@ -16,7 +16,7 @@ import '..\\assets\\css\\fontawesome.min.css'
 
 import '..\\assets\\css\\swiper.css'
 
-import '..\\assets\\css\\edumall-icon.css'
+import '..\\assets\\css\\EduMall-icon.css'
 
 import _6f6c098b from '..\\layouts\\default.vue'
 import _19064d5e from '..\\layouts\\EducationCenterLayout.vue'

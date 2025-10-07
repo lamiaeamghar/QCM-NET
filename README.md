@@ -1,4 +1,4 @@
-# edumall-vue
+# EduMall-vue
 
 ## Build Setup
 

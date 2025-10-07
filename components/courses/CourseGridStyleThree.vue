@@ -5,7 +5,7 @@
 				<img
 					:src="course.thumbnail"
 					:alt="course.title"
-					class="w-full group-hover:scale-110 transition-all duration-500"
+					class="w-full group-hover:scale-110 transition-all duration-500 sm:h-[202px] flex-shrink-0 object-cover object-center"
 				>
 			</n-link>
 			<div class="absolute top-0 left-0 text-base font-bold text-center">

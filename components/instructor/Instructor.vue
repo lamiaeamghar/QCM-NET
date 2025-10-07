@@ -2,12 +2,14 @@
 	<div class="shadow-[0_0_10px_rgba(51,51,51,0.1)] rounded-lg hover:shadow-[0_10px_50px_rgba(0,0,0,0.08)] transition-all">
 		<n-link :to="`/instructors/profile/${instructor.id}`">
 			<div class="text-center p-5">
-				<div class="w-[140px] h-[140px] rounded-full overflow-hidden mx-auto">
-					<img
-						:src="instructor.thumbnail"
-						:alt="instructor.name"
-					>
-				</div>
+<div class="w-[140px] h-[140px] rounded-full overflow-hidden mx-auto">
+  <img
+    :src="instructor.thumbnail"
+    :alt="instructor.name"
+    class="object-cover w-full h-full"
+  >
+</div>
+
 				<div class="mt-5">
 					<h5 class="font-semibold">{{ instructor.name }}</h5>
 					<p class="my-1">{{ instructor.jobTitle }}</p>

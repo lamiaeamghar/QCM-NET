@@ -18,7 +18,7 @@
 						</div>
 						<div class="mt-4 text-center">
 							<h6 class="text-base">{{ speaker.name }}</h6>
-							<p class="text-light">/ {{ speaker.designation }}</p>
+							<p class="text-light"> {{ speaker.designation }}</p>
 						</div>
 					</div>
 				</swiper>

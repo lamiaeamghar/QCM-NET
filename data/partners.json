@@ -1,62 +1,52 @@
 [
-    {
-        "id": 1,
-        "logo": "/images/partners-logo/client-logo-01.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 2,
-        "logo": "/images/partners-logo/client-logo-02.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 3,
-        "logo": "/images/partners-logo/client-logo-03.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 4,
-        "logo": "/images/partners-logo/client-logo-04.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 5,
-        "logo": "/images/partners-logo/client-logo-05.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 6,
-        "logo": "/images/partners-logo/client-logo-06.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 7,
-        "logo": "/images/partners-logo/client-logo-07.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 8,
-        "logo": "/images/partners-logo/client-logo-08.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 9,
-        "logo": "/images/partners-logo/client-logo-09.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 10,
-        "logo": "/images/partners-logo/client-logo-10.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 11,
-        "logo": "/images/partners-logo/client-logo-11.jpg",
-        "name": "Partner Company Logo"
-    },
-    {
-        "id": 12,
-        "logo": "/images/partners-logo/client-logo-12.jpg",
-        "name": "Partner Company Logo"
-    }
+  {
+    "id": 1,
+    "logo": "https://ensit.ma/wp-content/uploads/2024/05/ismans.png",
+    "name": "ISMANS"
+  },
+  {
+    "id": 2,
+    "logo": "https://ensit.ma/wp-content/uploads/2024/05/insa-logo.png",
+    "name": "INSA"
+  },
+  {
+    "id": 3,
+    "logo": "https://ensit.ma/wp-content/uploads/2024/05/uphf-logo.png",
+    "name": "UPHF"
+  },
+  {
+    "id": 4,
+    "logo": "https://ensit.ma/wp-content/uploads/2024/05/IAE-france.png",
+    "name": "IAE France"
+  },
+  {
+    "id": 5,
+    "logo": "https://ensit.ma/wp-content/uploads/2024/05/logo_um_2022_rouge_rvb.png",
+    "name": "Université de Montpellier"
+  },
+  {
+    "id": 6,
+    "logo": "https://ensit.ma/wp-content/uploads/2024/05/logo_univ_gustave_eiffel_rvb.png",
+    "name": "Université Gustave Eiffel"
+  },
+  {
+    "id": 7,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg",
+    "name": "Cisco"
+  },
+  {
+    "id": 8,
+    "logo": "https://learn.altissia.org/platform/images/logo/altissia/logo-full.svg",
+    "name": "Altissia"
+  },
+  {
+    "id": 9,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg",
+    "name": "Oracle"
+  },
+  {
+    "id": 10,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg",
+    "name": "SAP"
+  }
 ]

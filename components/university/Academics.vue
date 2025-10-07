@@ -60,19 +60,19 @@ export default {
 					id: 1,
 					title: "Undergraduate Admissions",
 					thumb: "/images/academics/university-image-01.jpg",
-					desc: "Do you have an <span class='font-semibold'>appetite for knowledge</span> ? Are you looking for an exceptional education? EduMall might be the place for you.",
+					desc: "Do you have an <span class='font-semibold'>appetite for knowledge</span> ? Are you looking for an exceptional education? QCM-NET might be the place for you.",
 				},
 				{
 					id: 2,
 					title: "Graduate Admissions",
 					thumb: "/images/academics/university-image-02.jpg",
-					desc: "Ready to pursue your graduate studies? At the graduate level, each <span class='font-semibold'>EduMall school</span> has its own, separate admissions process.",
+					desc: "Ready to pursue your graduate studies? At the graduate level, each <span class='font-semibold'>QCM-NET school</span> has its own, separate admissions process.",
 				},
 				{
 					id: 3,
 					title: "Continuing Education",
 					thumb: "/images/academics/university-image-03.jpg",
-					desc: "EduMall's Department for Continuing Education runs <span class='font-semibold'>over 1000 courses</span> per year, providing adult education for lifelong learning.",
+					desc: "QCM-NET's Department for Continuing Education runs <span class='font-semibold'>over 1000 courses</span> per year, providing adult education for lifelong learning.",
 				},
 			],
 		};

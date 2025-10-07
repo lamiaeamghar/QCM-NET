@@ -5,7 +5,7 @@
 				<div class="col-span-12 lg:col-span-3">
 					<div class="section-title mb-8 lg:mb-0 lg:max-w-[370px]">
 						<h6 class="text-base text-primary uppercase mb-5">start to success</h6>
-						<h2 class="-mt-2.5 text-2xl md:text-3xl">Achieve your goals with <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">Edumall</mark></h2>
+						<h2 class="-mt-2.5 text-2xl md:text-3xl">Achieve your goals with <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">QCM-NET</mark></h2>
 					</div>
 				</div>
 				<div class="col-span-12 lg:col-span-9">

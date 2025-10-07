@@ -2,7 +2,7 @@
 	<div class="testimonial-section pt-section bg-white-500 pb-[104px] relative overflow-hidden">
 		<div class="container">
 			<div class="section-title mb-10 text-center">
-				<h2 class="-mt-2.5 text-2xl md:text-3xl lg:text-[40px]">People Say About <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">EduMall</mark> </h2>
+				<h2 class="-mt-2.5 text-2xl md:text-3xl lg:text-[40px]">People Say About <mark class="bg-transparent relative inline-block before:content-titleShape before:absolute before:-bottom-5 before:left-1/2 before:-translate-x-1/2">QCM-NET</mark> </h2>
 			</div>
 			<div class="relative mt-12 lg:mt-0">
 				<swiper :options="swiperOptions">
@@ -20,7 +20,7 @@
 		<ShapeWithAnimation
 			data-depth="3"
 			class-list="absolute top-0 lg:top-16 left-0 lg:left-16 w-[100px] lg:w-auto"
-			img-src="/images/shape/edumall-shape-01.png"
+			img-src="/images/shape/EduMall-shape-01.png"
 		/>
 		<ShapeWithAnimation
 			data-depth="1"

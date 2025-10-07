@@ -57,7 +57,7 @@ export default {
 				{
 					id: 2,
 					count: 2030,
-					title: "Learners Enrolled in EduMall Courses",
+					title: "Learners Enrolled in QCM-NET Courses",
 					icon: "/images/svg/students-enroll.svg",
 				},
 				{

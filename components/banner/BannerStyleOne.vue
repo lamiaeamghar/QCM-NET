@@ -8,7 +8,7 @@
 							<div class="col-span-12 md:col-span-7 xl:col-span-6">
 								<div class="pt-[15px] pb-11">
 									<h4 class="-mt-2">Become An Instructor</h4>
-									<p class="mt-1.5">Top instructors from around the world teach millions of students on EduMall.</p>
+									<p class="mt-1.5">Top instructors from around the world teach millions of students on QCM-NET.</p>
 									<ButtonStyleOne
 										label="Start teaching today"
 										link="/become-an-instructor"

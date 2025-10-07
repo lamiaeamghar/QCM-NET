@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "title": "Successful Negotiation: Master Your Negotiating Skills",
-        "slug": "successful-negotiation-master-your-negotiating-skills",
-        "thumbnail": "/images/courses/courses-1.jpg",
+        "title": "Introduction to Computer Networks",
+        "slug": "introduction-to-computer-networks",
+        "thumbnail": "https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg?auto=compress&cs=tinysrgb&w=800",
         "levels": {
             "name": "All Levels",
             "slug": "all-levels"
         },
         "instructor": {
             "id": "parra126",
-            "name": "Parra Victoria"
+            "name": "Fatima Zahra El Amrani"
         },
         "languages": {
             "name": "English",
@@ -18,45 +18,46 @@
             "flag": "/images/svg/flag-01.svg",
             "thumbnail": "/images/language/language-01.jpg"
         },
-        "price": 39.00,
+        "price": 0,
         "rating": 4.5,
         "enroll": 10,
         "lessons": 36,
         "review": 12,
         "duration": 7.5,
         "update": "November 26, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "This course introduces the fundamental concepts of computer networks, including topologies, protocols, and basic communication principles.",
+        "content": "This course introduces the fundamental concepts of computer networks, including topologies, protocols, and basic communication principles.",
         "featured": false,
         "trending": true,
         "popularity": false,
         "tags": [
-            "development",
-            "design"
+            "networks",
+            "topology",
+            "protocols"
         ],
         "categories": {
-            "name": "development",
-            "slug": "development",
-            "desc": "Code with Confident",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/development.svg",
-                "iconTwo": "/images/svg/development-img.svg",
-                "thumbnail": "/images/category/development.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 2,
-        "title": "Time Management Mastery: Do More, Stress Less",
-        "slug": "time-management-mastery-do-more-stress-less",
-        "thumbnail": "/images/courses/courses-2.jpg",
+        "title": "Advanced TCP/IP Protocols",
+        "slug": "advanced-tcp-ip-protocols",
+        "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
         },
         "instructor": {
             "id": "maria126",
-            "name": "Maria Rose"
+            "name": "Aisha Benjelloun"
         },
         "languages": {
             "name": "French",
@@ -64,96 +65,97 @@
             "flag": "/images/svg/flag-02.svg",
             "thumbnail": "/images/language/language-02.jpg"
         },
-        "price": 29.99,
+        "price": 0,
         "rating": 4,
         "enroll": 20,
         "lessons": 55,
         "review": 10,
         "duration": 5,
         "update": "December 12, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Dive deep into TCP/IP protocols, learning about data transmission, error correction, and network layers.",
+        "content": "Dive deep into TCP/IP protocols, learning about data transmission, error correction, and network layers.",
         "featured": true,
         "trending": false,
         "popularity": true,
         "tags": [
-            "business",
-            "branding",
-            "management"
+            "tcp-ip",
+            "protocols",
+            "network-layers"
         ],
         "categories": {
-            "name": "business",
-            "slug": "business",
-            "desc": "Improve your business",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/business.svg",
-                "iconTwo": "/images/svg/business-img.svg",
-                "thumbnail": "/images/category/business.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 3,
-        "title": "Angular–The Complete Guide (2020 Edition)",
-        "slug": "angular-the-complete-guide-2020-edition",
-        "thumbnail": "/images/courses/courses-3.jpg",
+        "title": "Network Security Essentials",
+        "slug": "network-security-essentials",
+        "thumbnail": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=800",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
         },
         "instructor": {
             "id": "bright126",
-            "name": "The Bright"
+            "name": "Mohamed El Fassi"
         },
         "languages": {
-            "name": "German",
-            "slug": "german",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-03.svg",
             "thumbnail": "/images/language/language-03.jpg"
         },
-        "price": 49.00,
+        "price": 0,
         "rating": 0,
         "enroll": 30,
         "lessons": 40,
         "review": 0,
         "duration": 6.5,
         "update": "January 15, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Learn essential network security practices, including firewalls, encryption, and threat detection.",
+        "content": "Learn essential network security practices, including firewalls, encryption, and threat detection.",
         "featured": false,
         "trending": true,
         "popularity": false,
         "tags": [
-            "art",
-            "design"
+            "security",
+            "firewalls",
+            "encryption"
         ],
         "categories": {
-            "name": "art & design",
-            "slug": "art-design",
-            "desc": "Fun & Challenging",
+            "name": "cybersecurity",
+            "slug": "cybersecurity",
+            "desc": "Secure your digital world",
             "icon": {
-                "iconOne": "/images/svg/art-design.svg",
-                "iconTwo": "/images/svg/art-design-img.svg",
-                "thumbnail": "/images/category/art-design.jpg"
+                "iconOne": "/images/svg/cybersecurity.svg",
+                "iconTwo": "/images/svg/cybersecurity-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 4,
-        "title": "Consulting Approach to Problem Solving",
-        "slug": "consulting-approach-to-problem-solving",
-        "thumbnail": "/images/courses/courses-4.jpg",
+        "title": "Wireless Networking Fundamentals",
+        "slug": "wireless-networking-fundamentals",
+        "thumbnail": "https://images.unsplash.com/photo-1468436139062-f60a71c5c892?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "All Levels",
             "slug": "all-levels"
         },
         "instructor": {
-            "id": "jhonson126",
-            "name": "Jhonson"
+            "id": "Youssef Alaoui126",
+            "name": "Youssef Alaoui"
         },
         "languages": {
-            "name": "Italian",
-            "slug": "italian",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-04.svg",
             "thumbnail": "/images/language/language-04.jpg"
         },
@@ -164,126 +166,126 @@
         "review": 22,
         "duration": 8,
         "update": "March 26, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Explore the basics of wireless networks, Wi-Fi standards, and setup configurations.",
+        "content": "Explore the basics of wireless networks, Wi-Fi standards, and setup configurations.",
         "featured": false,
         "trending": true,
         "popularity": true,
         "tags": [
-            "music",
-            "personal",
-            "instrument",
-            "art"
+            "wireless",
+            "wi-fi",
+            "networks"
         ],
         "categories": {
-            "name": "music",
-            "slug": "music",
-            "desc": "Major or Minor",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/music.svg",
-                "iconTwo": "/images/svg/music-img.svg",
-                "thumbnail": "/images/category/music.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 5,
-        "title": "The Business Intelligence Analyst Course 2020",
-        "slug": "the-business-intelligence-analyst-course-2020",
-        "thumbnail": "/images/courses/courses-5.jpg",
+        "title": "Data Center Networking",
+        "slug": "data-center-networking",
+        "thumbnail": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=800",
         "levels": {
             "name": "Expert",
             "slug": "expert"
         },
         "instructor": {
             "id": "oliverporter126",
-            "name": "Oliver Porter"
+            "name": "Khadija Naciri"
         },
         "languages": {
-            "name": "Korean",
-            "slug": "korean",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-05.svg",
             "thumbnail": "/images/language/language-05.jpg"
         },
-        "price": 30.00,
+        "price": 0,
         "rating": 5,
         "enroll": 50,
         "lessons": 60,
         "review": 8,
         "duration": 4,
         "update": "April 17, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Understand networking in data centers, including switching, routing, and redundancy.",
+        "content": "Understand networking in data centers, including switching, routing, and redundancy.",
         "featured": false,
         "trending": true,
         "popularity": true,
         "tags": [
-            "lifestyle",
-            "fashion"
+            "data-center",
+            "switching",
+            "routing"
         ],
         "categories": {
-            "name": "lifestyle",
-            "slug": "lifestyle",
-            "desc": "New Skills, New You",
+            "name": "cloud computing",
+            "slug": "cloud-computing",
+            "desc": "Explore cloud technologies",
             "icon": {
-                "iconOne": "/images/svg/lifestyle.svg",
-                "iconTwo": "/images/svg/lifestyle-img.svg",
-                "thumbnail": "/images/category/lifestyle.jpg"
+                "iconOne": "/images/svg/cloud-computing.svg",
+                "iconTwo": "/images/svg/cloud-computing-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 6,
-        "title": "Become a Product Manager | Learn the Skills & Get the Job",
-        "slug": "become-a-product-manager-learn-the-skills-get-the-job",
-        "thumbnail": "/images/courses/courses-6.jpg",
+        "title": "Network Administration and Management",
+        "slug": "network-administration-and-management",
+        "thumbnail": "https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?auto=compress&cs=tinysrgb&w=800",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
         },
         "instructor": {
             "id": "jack126",
-            "name": "Jack Heaven"
+            "name": "Driss El Mekki"
         },
         "languages": {
-            "name": "Japanese",
-            "slug": "japanese",
+            "name": "French",
+            "slug": "french",
             "flag": "/images/svg/flag-06.svg",
             "thumbnail": "/images/language/language-06.jpg"
         },
-        "price": 29.99,
+        "price": 0,
         "rating": 4,
         "enroll": 60,
         "lessons": 65,
         "review": 32,
         "duration": 12,
         "update": "May 26, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "tags": [
-            "academics",
-            "personal skill",
-            "language"
-        ],
+        "excerpt": "Learn how to administer and manage computer networks effectively, covering monitoring and configuration.",
+        "content": "Learn how to administer and manage computer networks effectively, covering monitoring and configuration.",
         "featured": false,
         "trending": true,
         "popularity": true,
+        "tags": [
+            "administration",
+            "management",
+            "monitoring"
+        ],
         "categories": {
-            "name": "teaching academics",
-            "slug": "teaching-academics",
-            "desc": "High Education Level",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/teaching-academics.svg",
-                "iconTwo": "/images/svg/teaching-academics-img.svg",
-                "thumbnail": "/images/category/teaching-academics.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 7,
-        "title": "Mechanical Engineering and Electrical Engineering Explained",
-        "slug": "mechanical-engineering-and-electrical-engineering-explained",
-        "thumbnail": "/images/courses/courses-7.jpg",
+        "title": "CCNA Preparation Course",
+        "slug": "ccna-preparation-course",
+        "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "All Levels",
             "slug": "all-levels"
@@ -293,45 +295,44 @@
             "name": "Alex Patrik"
         },
         "languages": {
-            "name": "Spanish",
-            "slug": "spanish",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-07.svg",
             "thumbnail": "/images/language/language-07.jpg"
         },
-        "price": 39.00,
+        "price": 0,
         "rating": 5,
         "enroll": 70,
         "lessons": 48,
         "review": 16,
         "duration": 15,
         "update": "August 16, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Prepare for the CCNA certification with comprehensive coverage of networking concepts and hands-on labs.",
+        "content": "Prepare for the CCNA certification with comprehensive coverage of networking concepts and hands-on labs.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "health",
-            "fitness",
-            "Meditation",
-            "healthcare"
+            "ccna",
+            "certification",
+            "networking"
         ],
         "categories": {
-            "name": "health & fitness",
-            "slug": "health-fitness",
-            "desc": "Invest to Your Body",
+            "name": "certification prep",
+            "slug": "certification-prep",
+            "desc": "Prepare for IT certifications",
             "icon": {
-                "iconOne": "/images/svg/health-fitness.svg",
-                "iconTwo": "/images/svg/health-fitness-img.svg",
-                "thumbnail": "/images/category/health-fitness.jpg"
+                "iconOne": "/images/svg/certification-prep.svg",
+                "iconTwo": "/images/svg/certification-prep-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 8,
-        "title": "Learn Algebra The Easy Way! Do More, Stress Less",
-        "slug": "learn-algebra-the-easy-way-do-more-stress-less",
-        "thumbnail": "/images/courses/courses-8.jpg",
+        "title": "Computer Network Architecture",
+        "slug": "computer-network-architecture",
+        "thumbnail": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
@@ -341,52 +342,51 @@
             "name": "Lily Forster"
         },
         "languages": {
-            "name": "Russian",
-            "slug": "russian",
+            "name": "French",
+            "slug": "french",
             "flag": "/images/svg/flag-08.svg",
             "thumbnail": "/images/language/language-08.jpg"
         },
-        "price": 80.00,
+        "price": 0,
         "rating": 5,
         "enroll": 80,
         "lessons": 36,
         "review": 12,
         "duration": 12,
         "update": "November 26, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Study the architecture of computer networks, OSI model, and layered approaches.",
+        "content": "Study the architecture of computer networks, OSI model, and layered approaches.",
         "featured": true,
         "trending": false,
         "popularity": true,
         "tags": [
-            "data science",
-            "analytics",
-            "business",
-            "management"
+            "architecture",
+            "osi-model",
+            "layers"
         ],
         "categories": {
-            "name": "data science",
-            "slug": "data-science",
-            "desc": "Data is Everything",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/data-science.svg",
-                "iconTwo": "/images/svg/data-science-img.svg",
-                "thumbnail": "/images/category/data-science.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 9,
-        "title": "Essential Digital Tools for Student Engagement",
-        "slug": "essential-digital-tools-for-student-engagement",
-        "thumbnail": "/images/courses/courses-9.jpg",
+        "title": "LAN and WAN Technologies",
+        "slug": "lan-and-wan-technologies",
+        "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Expert",
             "slug": "expert"
         },
         "instructor": {
             "id": "parra126",
-            "name": "Parra Victoria"
+            "name": "Fatima Zahra El Amrani"
         },
         "languages": {
             "name": "French",
@@ -394,51 +394,50 @@
             "flag": "/images/svg/flag-02.svg",
             "thumbnail": "/images/language/language-02.jpg"
         },
-        "price": 70.00,
+        "price": 0,
         "rating": 5,
         "enroll": 90,
         "lessons": 66,
         "review": 15,
         "duration": 22,
         "update": "May 20, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Explore LAN and WAN technologies, their differences, and implementation strategies.",
+        "content": "Explore LAN and WAN technologies, their differences, and implementation strategies.",
         "featured": false,
         "trending": true,
         "popularity": true,
         "tags": [
-            "business",
-            "finance",
-            "management",
-            "accountant"
+            "lan",
+            "wan",
+            "technologies"
         ],
         "categories": {
-            "name": "finance",
-            "slug": "finance",
-            "desc": "Fun & Challenging",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/finance.svg",
-                "iconTwo": "/images/svg/finance-img.svg",
-                "thumbnail": "/images/category/finance.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 10,
-        "title": "Adobe Lightroom For Beginners : Complete Photo/Image Editing",
-        "slug": "adobe-lightroom-for-beginners-complete-photo-image-editing",
-        "thumbnail": "/images/courses/courses-10.jpg",
+        "title": "Network Troubleshooting Techniques",
+        "slug": "network-troubleshooting-techniques",
+        "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
         },
         "instructor": {
             "id": "oliverporter126",
-            "name": "Oliver Porter"
+            "name": "Khadija Naciri"
         },
         "languages": {
-            "name": "German",
-            "slug": "german",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-03.svg",
             "thumbnail": "/images/language/language-03.jpg"
         },
@@ -449,83 +448,79 @@
         "review": 18,
         "duration": 6.5,
         "update": "July 26, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Master techniques for troubleshooting common network issues and resolving them efficiently.",
+        "content": "Master techniques for troubleshooting common network issues and resolving them efficiently.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "business",
-            "confidence",
-            "management",
-            "branding",
-            "leadership",
-            "productivity"
+            "troubleshooting",
+            "networks",
+            "techniques"
         ],
         "categories": {
-            "name": "personal development",
-            "slug": "personal-development",
-            "desc": "Develop Yourself",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/personal-development.svg",
-                "iconTwo": "/images/svg/personal-development-img.svg",
-                "thumbnail": "/images/category/personal-development.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 11,
-        "title": "The Ultimate Photography Course – Beginner to Advanced",
-        "slug": "the-ultimate-photography-course-beginner-to-advanced",
-        "thumbnail": "/images/courses/courses-11.jpg",
+        "title": "Introduction to SDN (Software Defined Networking)",
+        "slug": "introduction-to-sdn-software-defined-networking",
+        "thumbnail": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
         },
         "instructor": {
             "id": "bright126",
-            "name": "The Bright"
+            "name": "Mohamed El Fassi"
         },
         "languages": {
-            "name": "Japanese",
-            "slug": "japanese",
+            "name": "French",
+            "slug": "french",
             "flag": "/images/svg/flag-06.svg",
             "thumbnail": "/images/language/language-06.jpg"
         },
-        "price": 50.00,
+        "price": 0,
         "rating": 4,
         "enroll": 110,
         "lessons": 85,
         "review": 12,
         "duration": 9,
         "update": "September 10, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Get started with Software Defined Networking, understanding its benefits and implementation.",
+        "content": "Get started with Software Defined Networking, understanding its benefits and implementation.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "photography",
-            "branding",
-            "productivity",
-            "art"
+            "sdn",
+            "software-defined",
+            "networking"
         ],
         "categories": {
-            "name": "photography",
-            "slug": "photography",
-            "desc": "Take a Good Photo",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/photography.svg",
-                "iconTwo": "/images/svg/photography-img.svg",
-                "thumbnail": "/images/category/photography.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 12,
-        "title": "Internationally Accredited Diploma in Weight Loss",
-        "slug": "internationally-accredited-diploma-in-weight-loss",
-        "thumbnail": "/images/courses/courses-12.jpg",
+        "title": "Cybersecurity in Networks",
+        "slug": "cybersecurity-in-networks",
+        "thumbnail": "https://www.shutterstock.com/image-photo/glowing-digital-lock-surrounded-by-600nw-2517566697.jpg",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
@@ -535,48 +530,44 @@
             "name": "Alex Patrik"
         },
         "languages": {
-            "name": "Spanish",
-            "slug": "spanish",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-07.svg",
             "thumbnail": "/images/language/language-07.jpg"
         },
-        "price": 99.00,
+        "price": 0,
         "rating": 5,
         "enroll": 120,
         "lessons": 48,
         "review": 32,
         "duration": 10,
         "update": "October 16, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Focus on cybersecurity measures specific to computer networks, including intrusion detection.",
+        "content": "Focus on cybersecurity measures specific to computer networks, including intrusion detection.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "business",
-            "branding",
-            "marketing",
-            "communication",
-            "digital marketing",
-            "seo",
-            "social media"
+            "cybersecurity",
+            "networks",
+            "intrusion-detection"
         ],
         "categories": {
-            "name": "marketing",
-            "slug": "marketing",
-            "desc": "Promote Your Brands",
+            "name": "cybersecurity",
+            "slug": "cybersecurity",
+            "desc": "Secure your digital world",
             "icon": {
-                "iconOne": "/images/svg/marketing.svg",
-                "iconTwo": "/images/svg/marketing-img.svg",
-                "thumbnail": "/images/category/marketing.jpg"
+                "iconOne": "/images/svg/cybersecurity.svg",
+                "iconTwo": "/images/svg/cybersecurity-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 13,
-        "title": "Photography Masterclass: A Complete Guide to Photography",
-        "slug": "photography-masterclass-a-complete-guide-to-photography",
-        "thumbnail": "/images/courses/courses-13.jpg",
+        "title": "Cloud Networking",
+        "slug": "cloud-networking",
+        "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
@@ -591,47 +582,46 @@
             "flag": "/images/svg/flag-01.svg",
             "thumbnail": "/images/language/language-01.jpg"
         },
-        "price": 75.00,
+        "price": 0,
         "rating": 4,
         "enroll": 130,
         "lessons": 36,
         "review": 12,
         "duration": 15,
         "update": "March 19, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Learn about networking in cloud environments, including AWS, Azure, and virtual networks.",
+        "content": "Learn about networking in cloud environments, including AWS, Azure, and virtual networks.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "music",
-            "personal",
-            "instrument",
-            "art"
+            "cloud",
+            "networking",
+            "virtual-networks"
         ],
         "categories": {
-            "name": "music",
-            "slug": "music",
-            "desc": "Major or Minor",
+            "name": "cloud computing",
+            "slug": "cloud-computing",
+            "desc": "Explore cloud technologies",
             "icon": {
-                "iconOne": "/images/svg/music.svg",
-                "iconTwo": "/images/svg/music-img.svg",
-                "thumbnail": "/images/category/music.jpg"
+                "iconOne": "/images/svg/cloud-computing.svg",
+                "iconTwo": "/images/svg/cloud-computing-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 14,
-        "title": "Boost Your Productivity: Adapt, Improve, Do!",
-        "slug": "boost-your-productivity-adapt-improve-do-14",
-        "thumbnail": "/images/courses/courses-14.jpg",
+        "title": "Network Performance Optimization",
+        "slug": "network-performance-optimization",
+        "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "All Levels",
             "slug": "all-levels"
         },
         "instructor": {
             "id": "parra126",
-            "name": "Parra Victoria"
+            "name": "Fatima Zahra El Amrani"
         },
         "languages": {
             "name": "English",
@@ -639,45 +629,46 @@
             "flag": "/images/svg/flag-01.svg",
             "thumbnail": "/images/language/language-01.jpg"
         },
-        "price": 39.00,
+        "price": 0,
         "rating": 4.5,
         "enroll": 10,
         "lessons": 36,
         "review": 12,
         "duration": 7.5,
         "update": "November 26, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Techniques to optimize network performance, reducing latency and increasing throughput.",
+        "content": "Techniques to optimize network performance, reducing latency and increasing throughput.",
         "featured": false,
         "trending": true,
         "popularity": false,
         "tags": [
-            "development",
-            "design"
+            "performance",
+            "optimization",
+            "latency"
         ],
         "categories": {
-            "name": "development",
-            "slug": "development",
-            "desc": "Code with Confident",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/development.svg",
-                "iconTwo": "/images/svg/development-img.svg",
-                "thumbnail": "/images/category/development.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 15,
-        "title": "Succeed, Influence and Inspire as a Woman",
-        "slug": "succeed-influence-and-inspire-as-a-woman-15",
-        "thumbnail": "/images/courses/courses-15.jpg",
+        "title": "IoT Networking",
+        "slug": "iot-networking",
+        "thumbnail": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
         },
         "instructor": {
             "id": "maria126",
-            "name": "Maria Rose"
+            "name": "Aisha Benjelloun"
         },
         "languages": {
             "name": "French",
@@ -685,96 +676,97 @@
             "flag": "/images/svg/flag-02.svg",
             "thumbnail": "/images/language/language-02.jpg"
         },
-        "price": 29.99,
+        "price": 0,
         "rating": 4,
         "enroll": 20,
         "lessons": 55,
         "review": 10,
         "duration": 5,
         "update": "December 12, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Discover networking for Internet of Things devices, protocols like MQTT and CoAP.",
+        "content": "Discover networking for Internet of Things devices, protocols like MQTT and CoAP.",
         "featured": true,
         "trending": false,
         "popularity": true,
         "tags": [
-            "business",
-            "branding",
-            "management"
+            "iot",
+            "protocols",
+            "devices"
         ],
         "categories": {
-            "name": "business",
-            "slug": "business",
-            "desc": "Improve your business",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/business.svg",
-                "iconTwo": "/images/svg/business-img.svg",
-                "thumbnail": "/images/category/business.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 16,
-        "title": "Building Influence at Work for professional",
-        "slug": "building-influence-at-work-for-professional-16",
-        "thumbnail": "/images/courses/courses-16.jpg",
+        "title": "Network Programming with Python",
+        "slug": "network-programming-with-python",
+        "thumbnail": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
         },
         "instructor": {
             "id": "bright126",
-            "name": "The Bright"
+            "name": "Mohamed El Fassi"
         },
         "languages": {
-            "name": "German",
-            "slug": "german",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-03.svg",
             "thumbnail": "/images/language/language-03.jpg"
         },
-        "price": 49.00,
+        "price": 0,
         "rating": 0,
         "enroll": 30,
         "lessons": 40,
         "review": 0,
         "duration": 6.5,
         "update": "January 15, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Learn to program network applications using Python, including sockets and APIs.",
+        "content": "Learn to program network applications using Python, including sockets and APIs.",
         "featured": false,
         "trending": true,
         "popularity": false,
         "tags": [
-            "art",
-            "design"
+            "programming",
+            "python",
+            "sockets"
         ],
         "categories": {
-            "name": "art & design",
-            "slug": "art-design",
-            "desc": "Fun & Challenging",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/art-design.svg",
-                "iconTwo": "/images/svg/art-design-img.svg",
-                "thumbnail": "/images/category/art-design.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 17,
-        "title": "Global Education fas l Meeting for Everyone",
-        "slug": "global-education-fas-Meeting-for-everyone-17",
-        "thumbnail": "/images/courses/courses-17.jpg",
+        "title": "Ethernet and Switching",
+        "slug": "ethernet-and-switching",
+        "thumbnail": "https://images.pexels.com/photos/1624895/pexels-photo-1624895.jpeg?auto=compress&cs=tinysrgb&w=800",
         "levels": {
             "name": "All Levels",
             "slug": "all-levels"
         },
         "instructor": {
-            "id": "jhonson126",
-            "name": "Jhonson"
+            "id": "Youssef Alaoui126",
+            "name": "Youssef Alaoui"
         },
         "languages": {
-            "name": "Italian",
-            "slug": "italian",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-04.svg",
             "thumbnail": "/images/language/language-04.jpg"
         },
@@ -785,126 +777,126 @@
         "review": 22,
         "duration": 8,
         "update": "March 26, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Understand Ethernet standards and switching mechanisms in local networks.",
+        "content": "Understand Ethernet standards and switching mechanisms in local networks.",
         "featured": false,
         "trending": true,
         "popularity": true,
         "tags": [
-            "music",
-            "personal",
-            "instrument",
-            "art"
+            "ethernet",
+            "switching",
+            "local-networks"
         ],
         "categories": {
-            "name": "music",
-            "slug": "music",
-            "desc": "Major or Minor",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/music.svg",
-                "iconTwo": "/images/svg/music-img.svg",
-                "thumbnail": "/images/category/music.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 18,
-        "title": "London International Conference on Education",
-        "slug": "london-international-conference-on-education-18",
-        "thumbnail": "/images/courses/courses-18.jpg",
+        "title": "Routing Protocols",
+        "slug": "routing-protocols",
+        "thumbnail": "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Expert",
             "slug": "expert"
         },
         "instructor": {
             "id": "oliverporter126",
-            "name": "Oliver Porter"
+            "name": "Khadija Naciri"
         },
         "languages": {
-            "name": "Korean",
-            "slug": "korean",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-05.svg",
             "thumbnail": "/images/language/language-05.jpg"
         },
-        "price": 30.00,
+        "price": 0,
         "rating": 5,
         "enroll": 50,
         "lessons": 60,
         "review": 8,
         "duration": 4,
         "update": "April 17, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "In-depth look at routing protocols like OSPF, BGP, and EIGRP.",
+        "content": "In-depth look at routing protocols like OSPF, BGP, and EIGRP.",
         "featured": false,
         "trending": true,
         "popularity": true,
         "tags": [
-            "lifestyle",
-            "fashion"
+            "routing",
+            "ospf",
+            "bgp"
         ],
         "categories": {
-            "name": "lifestyle",
-            "slug": "lifestyle",
-            "desc": "New Skills, New You",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/lifestyle.svg",
-                "iconTwo": "/images/svg/lifestyle-img.svg",
-                "thumbnail": "/images/category/lifestyle.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 19,
-        "title": "Digital Skills: Using Information to Build Business",
-        "slug": "digital-skills-using-information-to-build-business-19",
-        "thumbnail": "/images/courses/courses-19.jpg",
+        "title": "VPN and Remote Access",
+        "slug": "vpn-and-remote-access",
+        "thumbnail": "https://images.pexels.com/photos/2064586/pexels-photo-2064586.jpeg?auto=compress&cs=tinysrgb&w=800",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
         },
         "instructor": {
             "id": "jack126",
-            "name": "Jack Heaven"
+            "name": "Driss El Mekki"
         },
         "languages": {
-            "name": "Japanese",
-            "slug": "japanese",
+            "name": "French",
+            "slug": "french",
             "flag": "/images/svg/flag-06.svg",
             "thumbnail": "/images/language/language-06.jpg"
         },
-        "price": 29.99,
+        "price": 0,
         "rating": 4,
         "enroll": 60,
         "lessons": 65,
         "review": 32,
         "duration": 12,
         "update": "May 26, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "tags": [
-            "academics",
-            "personal skill",
-            "language"
-        ],
+        "excerpt": "Set up VPNs for secure remote access to networks.",
+        "content": "Set up VPNs for secure remote access to networks.",
         "featured": false,
         "trending": true,
         "popularity": true,
+        "tags": [
+            "vpn",
+            "remote-access",
+            "security"
+        ],
         "categories": {
-            "name": "teaching academics",
-            "slug": "teaching-academics",
-            "desc": "High Education Level",
+            "name": "cybersecurity",
+            "slug": "cybersecurity",
+            "desc": "Secure your digital world",
             "icon": {
-                "iconOne": "/images/svg/teaching-academics.svg",
-                "iconTwo": "/images/svg/teaching-academics-img.svg",
-                "thumbnail": "/images/category/teaching-academics.jpg"
+                "iconOne": "/images/svg/cybersecurity.svg",
+                "iconTwo": "/images/svg/cybersecurity-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 20,
-        "title": "Creating Futures Through Technology Conference",
-        "slug": "creating-futures-through-technology-conference-20",
-        "thumbnail": "/images/courses/courses-20.jpg",
+        "title": "Network Design Principles",
+        "slug": "network-design-principles",
+        "thumbnail": "https://cdn.pixabay.com/photo/2020/08/09/14/25/business-5475656_1280.jpg",
         "levels": {
             "name": "All Levels",
             "slug": "all-levels"
@@ -914,45 +906,44 @@
             "name": "Alex Patrik"
         },
         "languages": {
-            "name": "Spanish",
-            "slug": "spanish",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-07.svg",
             "thumbnail": "/images/language/language-07.jpg"
         },
-        "price": 39.00,
+        "price": 0,
         "rating": 5,
         "enroll": 70,
         "lessons": 48,
         "review": 16,
         "duration": 15,
         "update": "August 16, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Principles for designing scalable and reliable computer networks.",
+        "content": "Principles for designing scalable and reliable computer networks.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "health",
-            "fitness",
-            "Meditation",
-            "healthcare"
+            "design",
+            "scalable",
+            "reliable"
         ],
         "categories": {
-            "name": "health & fitness",
-            "slug": "health-fitness",
-            "desc": "Invest to Your Body",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/health-fitness.svg",
-                "iconTwo": "/images/svg/health-fitness-img.svg",
-                "thumbnail": "/images/category/health-fitness.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 21,
-        "title": "Digital Arts and Reshaping the Future with AI",
-        "slug": "digital-arts-and-reshaping-the-future-with-ai-21",
-        "thumbnail": "/images/courses/courses-21.jpg",
+        "title": "Fiber Optic Networking",
+        "slug": "fiber-optic-networking",
+        "thumbnail": "https://images.unsplash.com/photo-1581472723648-909f4851d4ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
@@ -962,52 +953,51 @@
             "name": "Lily Forster"
         },
         "languages": {
-            "name": "Russian",
-            "slug": "russian",
+            "name": "French",
+            "slug": "french",
             "flag": "/images/svg/flag-08.svg",
             "thumbnail": "/images/language/language-08.jpg"
         },
-        "price": 80.00,
+        "price": 0,
         "rating": 5,
         "enroll": 80,
         "lessons": 36,
         "review": 12,
         "duration": 12,
         "update": "November 26, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Learn about fiber optic technologies for high-speed networking.",
+        "content": "Learn about fiber optic technologies for high-speed networking.",
         "featured": true,
         "trending": false,
         "popularity": true,
         "tags": [
-            "data science",
-            "analytics",
-            "business",
-            "management"
+            "fiber-optic",
+            "high-speed",
+            "networking"
         ],
         "categories": {
-            "name": "data science",
-            "slug": "data-science",
-            "desc": "Data is Everything",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/data-science.svg",
-                "iconTwo": "/images/svg/data-science-img.svg",
-                "thumbnail": "/images/category/data-science.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 22,
-        "title": "Administrators and IT Professionals Strategies",
-        "slug": "administrators-and-it-professionals-strategies-22",
-        "thumbnail": "/images/courses/courses-22.jpg",
+        "title": "Mobile Networks (4G/5G)",
+        "slug": "mobile-networks-4g-5g",
+        "thumbnail": "https://www.cisco.com/content/dam/cisco-cdc/site/images/legacy/assets/swa/img/anchor-info/what-is-5g-vs-4g-628x353.png",
         "levels": {
             "name": "Expert",
             "slug": "expert"
         },
         "instructor": {
             "id": "parra126",
-            "name": "Parra Victoria"
+            "name": "Fatima Zahra El Amrani"
         },
         "languages": {
             "name": "French",
@@ -1015,51 +1005,50 @@
             "flag": "/images/svg/flag-02.svg",
             "thumbnail": "/images/language/language-02.jpg"
         },
-        "price": 70.00,
+        "price": 0,
         "rating": 5,
         "enroll": 90,
         "lessons": 66,
         "review": 15,
         "duration": 22,
         "update": "May 20, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Explore mobile network technologies from 4G to 5G and beyond.",
+        "content": "Explore mobile network technologies from 4G to 5G and beyond.",
         "featured": false,
         "trending": true,
         "popularity": true,
         "tags": [
-            "business",
-            "finance",
-            "management",
-            "accountant"
+            "mobile",
+            "4g",
+            "5g"
         ],
         "categories": {
-            "name": "finance",
-            "slug": "finance",
-            "desc": "Fun & Challenging",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/finance.svg",
-                "iconTwo": "/images/svg/finance-img.svg",
-                "thumbnail": "/images/category/finance.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 23,
-        "title": "hings to Do Virtual Celebration Brunch and Book",
-        "slug": "things-to-do-virtual-celebration-brunch-and-book-23",
-        "thumbnail": "/images/courses/courses-23.jpg",
+        "title": "Network Simulation with Cisco Packet Tracer",
+        "slug": "network-simulation-with-cisco-packet-tracer",
+        "thumbnail": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
         },
         "instructor": {
             "id": "oliverporter126",
-            "name": "Oliver Porter"
+            "name": "Khadija Naciri"
         },
         "languages": {
-            "name": "German",
-            "slug": "german",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-03.svg",
             "thumbnail": "/images/language/language-03.jpg"
         },
@@ -1070,83 +1059,79 @@
         "review": 18,
         "duration": 6.5,
         "update": "July 26, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Use Cisco Packet Tracer to simulate and test network configurations.",
+        "content": "Use Cisco Packet Tracer to simulate and test network configurations.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "business",
-            "confidence",
-            "management",
-            "branding",
-            "leadership",
-            "productivity"
+            "simulation",
+            "cisco",
+            "packet-tracer"
         ],
         "categories": {
-            "name": "personal development",
-            "slug": "personal-development",
-            "desc": "Develop Yourself",
+            "name": "certification prep",
+            "slug": "certification-prep",
+            "desc": "Prepare for IT certifications",
             "icon": {
-                "iconOne": "/images/svg/personal-development.svg",
-                "iconTwo": "/images/svg/personal-development-img.svg",
-                "thumbnail": "/images/category/personal-development.jpg"
+                "iconOne": "/images/svg/certification-prep.svg",
+                "iconTwo": "/images/svg/certification-prep-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 24,
-        "title": "How to Photograph Events Without Bothering the Guests",
-        "slug": "how-to-photograph-events-without-bothering-the-guests-24",
-        "thumbnail": "/images/courses/courses-24.jpg",
+        "title": "IPv6 Implementation",
+        "slug": "ipv6-implementation",
+        "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
         },
         "instructor": {
             "id": "bright126",
-            "name": "The Bright"
+            "name": "Mohamed El Fassi"
         },
         "languages": {
-            "name": "Japanese",
-            "slug": "japanese",
+            "name": "French",
+            "slug": "french",
             "flag": "/images/svg/flag-06.svg",
             "thumbnail": "/images/language/language-06.jpg"
         },
-        "price": 50.00,
+        "price": 0,
         "rating": 4,
         "enroll": 110,
         "lessons": 85,
         "review": 12,
         "duration": 9,
         "update": "September 10, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Implement IPv6 in networks, transitioning from IPv4.",
+        "content": "Implement IPv6 in networks, transitioning from IPv4.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "photography",
-            "branding",
-            "productivity",
-            "art"
+            "ipv6",
+            "implementation",
+            "ipv4"
         ],
         "categories": {
-            "name": "photography",
-            "slug": "photography",
-            "desc": "Take a Good Photo",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/photography.svg",
-                "iconTwo": "/images/svg/photography-img.svg",
-                "thumbnail": "/images/category/photography.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 25,
-        "title": "Computing Education Practice Conference 2023",
-        "slug": "computing-education-practice-conference-20223-25",
-        "thumbnail": "/images/courses/courses-25.jpg",
+        "title": "Network Forensics",
+        "slug": "network-forensics",
+        "thumbnail": "https://www.salvationdata.com/wp-content/uploads/2024/11/network-forensics.jpg",
         "levels": {
             "name": "Intermediate",
             "slug": "intermediate"
@@ -1156,48 +1141,44 @@
             "name": "Alex Patrik"
         },
         "languages": {
-            "name": "Spanish",
-            "slug": "spanish",
+            "name": "English",
+            "slug": "english",
             "flag": "/images/svg/flag-07.svg",
             "thumbnail": "/images/language/language-07.jpg"
         },
-        "price": 99.00,
+        "price": 0,
         "rating": 5,
         "enroll": 120,
         "lessons": 48,
         "review": 32,
         "duration": 10,
         "update": "October 16, 2021",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Techniques for network forensics, analyzing traffic for security incidents.",
+        "content": "Techniques for network forensics, analyzing traffic for security incidents.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "business",
-            "branding",
-            "marketing",
-            "communication",
-            "digital marketing",
-            "seo",
-            "social media"
+            "forensics",
+            "traffic-analysis",
+            "security"
         ],
         "categories": {
-            "name": "marketing",
-            "slug": "marketing",
-            "desc": "Promote Your Brands",
+            "name": "cybersecurity",
+            "slug": "cybersecurity",
+            "desc": "Secure your digital world",
             "icon": {
-                "iconOne": "/images/svg/marketing.svg",
-                "iconTwo": "/images/svg/marketing-img.svg",
-                "thumbnail": "/images/category/marketing.jpg"
+                "iconOne": "/images/svg/cybersecurity.svg",
+                "iconTwo": "/images/svg/cybersecurity-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1516321310762-4b4f5b2c0e1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     },
     {
         "id": 26,
-        "title": "Photography Masterclass: A Complete Guide",
-        "slug": "photography-masterclass-a-complete-guide-26",
-        "thumbnail": "/images/courses/courses-26.jpg",
+        "title": "Emerging Trends in Computer Networks",
+        "slug": "emerging-trends-in-computer-networks",
+        "thumbnail": "https://www.shutterstock.com/image-photo/glowing-digital-lock-surrounded-by-600nw-2517566697.jpg",
         "levels": {
             "name": "Beginner",
             "slug": "beginner"
@@ -1212,32 +1193,31 @@
             "flag": "/images/svg/flag-01.svg",
             "thumbnail": "/images/language/language-01.jpg"
         },
-        "price": 75.00,
+        "price": 0,
         "rating": 4,
         "enroll": 130,
         "lessons": 36,
         "review": 12,
         "duration": 15,
         "update": "March 19, 2022",
-        "excerpt": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
-        "content": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you.",
+        "excerpt": "Explore the latest trends and future directions in computer networking.",
+        "content": "Explore the latest trends and future directions in computer networking.",
         "featured": true,
         "trending": true,
         "popularity": false,
         "tags": [
-            "music",
-            "personal",
-            "instrument",
-            "art"
+            "trends",
+            "future",
+            "networking"
         ],
         "categories": {
-            "name": "music",
-            "slug": "music",
-            "desc": "Major or Minor",
+            "name": "computer networks",
+            "slug": "computer-networks",
+            "desc": "Master the art of networking",
             "icon": {
-                "iconOne": "/images/svg/music.svg",
-                "iconTwo": "/images/svg/music-img.svg",
-                "thumbnail": "/images/category/music.jpg"
+                "iconOne": "/images/svg/computer-networks.svg",
+                "iconTwo": "/images/svg/computer-networks-img.svg",
+                "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
             }
         }
     }

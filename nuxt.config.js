@@ -48,7 +48,7 @@ export default {
     },
 
     // Global CSS: https://go.nuxtjs.dev/config-css
-    css: ["~/assets/scss/style.scss", "~/assets/css/tailwind.css", "~/assets/css/fontawesome.min.css", "~/assets/css/swiper.css", "~/assets/css/edumall-icon.css"],
+    css: ["~/assets/scss/style.scss", "~/assets/css/tailwind.css", "~/assets/css/fontawesome.min.css", "~/assets/css/swiper.css", "~/assets/css/EduMall-icon.css"],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
     plugins: [

@@ -29,7 +29,7 @@ export default {
 					id: 1,
 					icon: "/images/svg/getting-started.svg",
 					title: "Getting Started",
-					desc: "Learn how Edumall works and how to start learning.",
+					desc: "Learn how QCM-NET works and how to start learning.",
 				},
 				{
 					id: 2,
@@ -47,7 +47,7 @@ export default {
 					id: 4,
 					icon: "/images/svg/course-taking.svg",
 					title: "Course Taking",
-					desc: "Everything about taking a course on EduMall.",
+					desc: "Everything about taking a course on QCM-NET.",
 				},
 				{
 					id: 5,

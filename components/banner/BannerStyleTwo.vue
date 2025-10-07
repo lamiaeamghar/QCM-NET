@@ -8,7 +8,7 @@
 							<div class="col-span-12 md:col-span-7 xl:col-span-6">
 								<div class="pt-[15px] pb-11">
 									<h6 class="-mt-2 text-sm text-primary">New Certificates</h6>
-									<h3 class="mt-1.5">Online Courses from EduMall University</h3>
+									<h3 class="mt-1.5">Online Courses from QCM-NET University</h3>
 									<ButtonStyleOne
 										label="Find out more"
 										link="/"
