@@ -1,113 +1,110 @@
 <template>
-	<div class="dashboard-wrapper bg-white-800 ml-0 lg:ml-[320px]">
-		<div class="dashboard-content pt-11 pb-section">
-			<div class="container">
-				<h1 class="text-[28px] mb-7.5">My Profile</h1>
-				<div class="bg-white rounded p-7.5 border border-gallery space-y-3 sm:space-y-1.5">
-					<div class="sm:flex font-semibold pr-2.5 leading-[26px] text-light">
-						<span class="min-w-[180px] capitalize">Full Name</span>
-						<p>{{ instructor.name }}</p>
-					</div>
-					<div class="sm:flex font-semibold pr-2.5 leading-[26px] text-light">
-						<span class="min-w-[180px] capitalize">Phone Number</span>
-						<p>{{ instructor.phoneNumber }}</p>
-					</div>
-					<div class="sm:flex font-semibold pr-2.5 leading-[26px] text-light">
-						<span class="min-w-[180px] capitalize">Job Title</span>
-						<p>{{ instructor.jobTitle }}</p>
-					</div>
-					<div class="sm:flex font-semibold pr-2.5 leading-[26px] text-light">
-						<span class="min-w-[180px] capitalize">Bio</span>
-						<p>Over the course of his career, he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science</p>
-					</div>
-				</div>
-				<div class="grid sm:grid-cols-2 md:grid-cols-3 gap-7.5 mt-7.5">
-					<div class="border rounded bg-white border-gallery p-5 lg:px-7.5 lg:py-10 flex">
-						<div class="icon w-15 h-15 lg:w-20 lg:h-20 text-2xl lg:text-4xl text-[#4e84fa] bg-[#f4f7ff] border border-[#d3dffe] rounded-full text-center leading-[60px] lg:leading-[80px] flex-shrink-0">
-							<i class="edumi edumi-open-book"></i>
-						</div>
-						<div class="pl-5 lg:pl-12">
-							<h2 class="text-2xl md:text-3xl lg:text-[40px]">{{ instructor.enroll }}</h2>
-							<p class=" text-light font-semibold">Enrolled Courses</p>
-						</div>
-					</div>
-					<div class="border rounded bg-white border-gallery p-5 lg:px-7.5 lg:py-10 flex">
-						<div class="icon w-15 h-15 lg:w-20 lg:h-20 text-2xl lg:text-4xl text-[#ffc221] bg-[#fffcf2] border border-[#ffde89] rounded-full text-center leading-[60px] lg:leading-[80px] flex-shrink-0">
-							<i class="edumi edumi-streaming"></i>
-						</div>
-						<div class="pl-5 lg:pl-12">
-							<h2 class="text-2xl md:text-3xl lg:text-[40px]">{{ instructor.activeCourse }}</h2>
-							<p class=" text-light font-semibold">Active Courses</p>
-						</div>
-					</div>
-					<div class="border rounded bg-white border-gallery p-5 lg:px-7.5 lg:py-10 flex">
-						<div class="icon w-15 h-15 lg:w-20 lg:h-20 text-2xl lg:text-4xl text-[#6cbd7e] bg-[#f6fbf7] border border-[#daeedf] rounded-full text-center leading-[60px] lg:leading-[80px] flex-shrink-0">
-							<i class="edumi edumi-correct"></i>
-						</div>
-						<div class="pl-5 lg:pl-12">
-							<h2 class="text-2xl md:text-3xl lg:text-[40px]">{{ instructor.completeCourse }}</h2>
-							<p class=" text-light font-semibold">Completed Courses</p>
-						</div>
-					</div>
-					<div class="border rounded bg-white border-gallery p-5 lg:px-7.5 lg:py-10 flex">
-						<div class="icon w-15 h-15 lg:w-20 lg:h-20 text-2xl lg:text-4xl text-[#fc8a89] bg-[#fff8f8] border border-[#fdc0c0] rounded-full text-center leading-[60px] lg:leading-[80px] flex-shrink-0">
-							<i class="edumi edumi-group"></i>
-						</div>
-						<div class="pl-5 lg:pl-12">
-							<h2 class="text-2xl md:text-3xl lg:text-[40px]">{{ instructor.students }}</h2>
-							<p class=" text-light font-semibold">Total Students</p>
-						</div>
-					</div>
-					<div class="border rounded bg-white border-gallery p-5 lg:px-7.5 lg:py-10 flex">
-						<div class="icon w-15 h-15 lg:w-20 lg:h-20 text-2xl lg:text-4xl text-[#7f86ff] bg-[#f8f8ff] border border-[#bbbeff] rounded-full text-center leading-[60px] lg:leading-[80px] flex-shrink-0">
-							<i class="edumi edumi-user-support"></i>
-						</div>
-						<div class="pl-5 lg:pl-12">
-							<h2 class="text-2xl md:text-3xl lg:text-[40px]">{{ instructor.activeCourse }}</h2>
-							<p class=" text-light font-semibold">Total Courses</p>
-						</div>
-					</div>
-					<div class="border rounded bg-white border-gallery p-5 lg:px-7.5 lg:py-10 flex">
-						<div class="icon w-15 h-15 lg:w-20 lg:h-20 text-2xl lg:text-4xl text-[#f49263] bg-[#fff9f6] border border-[#f9c5ac] rounded-full text-center leading-[60px] lg:leading-[80px] flex-shrink-0">
-							<i class="edumi edumi-star"></i>
-						</div>
-						<div class="pl-5 lg:pl-12">
-							<h2 class="text-2xl md:text-3xl lg:text-[40px]">{{ instructor.reviews }}</h2>
-							<p class=" text-light font-semibold">Total Reviews</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="min-h-screen bg-gray-50 text-gray-800 ml-0">
+    <div class="max-w-7xl mx-auto px-6 py-10 space-y-10">
+
+      <!-- Welcome Section -->
+      <section class="bg-gradient-to-r from-blue-600 to-indigo-500 text-white rounded-2xl p-8 shadow-md">
+        <h1 class="text-3xl font-bold mb-2">
+          👋 HI, {{ instructor.name }}
+        </h1>
+        <p class="text-sm opacity-90">
+          Here’s an overview of your teaching activity on QCM-NET.
+        </p>
+      </section>
+
+      <!-- Profile Info -->
+      <section class="bg-white rounded-2xl shadow border border-gray-200 p-8">
+        <h2 class="text-2xl font-semibold mb-6 text-gray-800">My Profile</h2>
+        <div class="grid sm:grid-cols-2 gap-6 text-gray-700">
+          <div>
+            <p><strong>Full Name:</strong> {{ instructor.name }}</p>
+            <p><strong>Job Title:</strong> {{ instructor.jobTitle }}</p>
+          </div>
+          <div>
+            <p><strong>Phone Number:</strong> {{ instructor.phoneNumber }}</p>
+            <p><strong>Bio:</strong> {{ instructor.bio }}</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Stats Section -->
+      <section class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
+        <div
+          v-for="(stat, index) in stats"
+          :key="index"
+          class="bg-white shadow rounded-xl p-6 border border-gray-200 flex items-center hover:shadow-lg transition-all"
+        >
+          <div
+            class="icon w-16 h-16 text-3xl text-primary flex items-center justify-center rounded-full bg-blue-50 mr-5"
+          >
+            <i :class="stat.icon"></i>
+          </div>
+          <div>
+            <h3 class="text-3xl font-bold text-gray-800">{{ stat.value }}</h3>
+            <p class="text-gray-500 font-medium">{{ stat.label }}</p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
 </template>
 
 <script>
 import instructors from "~/data/instructors.json";
 
 export default {
-	layout: "InstructorDashboard",
-
-	data() {
-		return {
-			instructors,
-			slug: this.$route.params.slug,
-		};
-	},
-
-	head() {
-		return {
-			title: "Instructor Profile",
-			bodyAttrs: {
-				class: "bg-white-800",
-			},
-		};
-	},
-
-	computed: {
-		instructor() {
-			return this.instructors.find((instructor) => instructor.id === this.slug);
-		},
-	},
+  layout: "InstructorDashboard",
+  data() {
+    return {
+      instructors,
+      slug: this.$route.params.slug,
+    };
+  },
+  computed: {
+    instructor() {
+      return this.instructors.find((instructor) => instructor.id === this.slug);
+    },
+    stats() {
+      if (!this.instructor) return [];
+      return [
+        {
+          label: "My QCMs",
+          value: this.instructor.enroll,
+          icon: "fas fa-book",
+        },
+        {
+          label: "Active Courses",
+          value: this.instructor.activeCourse,
+          icon: "fas fa-play-circle",
+        },
+        {
+          label: "Completed Courses",
+          value: this.instructor.completeCourse,
+          icon: "fas fa-check-circle",
+        },
+        {
+          label: "Total Students",
+          value: this.instructor.students,
+          icon: "fas fa-user-graduate",
+        },
+        {
+          label: "Total Courses",
+          value: this.instructor.activeCourse,
+          icon: "fas fa-chalkboard-teacher",
+        },
+        {
+          label: "Pending Reviews",
+          value: this.instructor.reviews,
+          icon: "fas fa-star",
+        },
+      ];
+    },
+  },
 };
 </script>
+
+<style scoped>
+.text-primary {
+  color: #2563eb;
+}
+</style>

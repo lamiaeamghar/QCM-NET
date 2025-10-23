@@ -9,7 +9,6 @@
 
 <script>
 import instructors from "~/data/instructors.json";
-
 export default {
 	components: {
 		InstructorDashboardHeader: () => import("~/components/instructor/InstructorDashboardHeader"),
