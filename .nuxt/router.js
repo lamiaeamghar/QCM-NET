@@ -55,6 +55,7 @@ const _27fc9ec2 = () => interopDefault(import('..\\pages\\course-category\\_slug
 const _30d2fb57 = () => interopDefault(import('..\\pages\\courses\\_slug.vue' /* webpackChunkName: "pages/courses/_slug" */))
 const _9b29bb16 = () => interopDefault(import('..\\pages\\event\\_slug.vue' /* webpackChunkName: "pages/event/_slug" */))
 const _2a0cac18 = () => interopDefault(import('..\\pages\\faqs\\_slug.vue' /* webpackChunkName: "pages/faqs/_slug" */))
+const _991165d8 = () => interopDefault(import('..\\pages\\qcm\\_slug.vue' /* webpackChunkName: "pages/qcm/_slug" */))
 const _10e11abd = () => interopDefault(import('..\\pages\\zoom-meetings\\_slug.vue' /* webpackChunkName: "pages/zoom-meetings/_slug" */))
 
 const emptyFn = () => {}
@@ -272,6 +273,10 @@ export const routerOptions = {
     path: "/faqs/:slug",
     component: _2a0cac18,
     name: "faqs-slug"
+  }, {
+    path: "/qcm/:slug?",
+    component: _991165d8,
+    name: "qcm-slug"
   }, {
     path: "/zoom-meetings/:slug?",
     component: _10e11abd,

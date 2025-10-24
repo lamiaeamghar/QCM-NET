@@ -29,18 +29,6 @@
   "AboutVideoCallToAction": {
     "description": "Auto imported from components/about/VideoCallToAction.vue"
   },
-  "BannerStyleFour": {
-    "description": "Auto imported from components/banner/BannerStyleFour.vue"
-  },
-  "BannerStyleOne": {
-    "description": "Auto imported from components/banner/BannerStyleOne.vue"
-  },
-  "BannerStyleThree": {
-    "description": "Auto imported from components/banner/BannerStyleThree.vue"
-  },
-  "BannerStyleTwo": {
-    "description": "Auto imported from components/banner/BannerStyleTwo.vue"
-  },
   "BecomeInstructorCTA": {
     "description": "Auto imported from components/become-instructor/BecomeInstructorCTA.vue"
   },
@@ -101,18 +89,6 @@
   "BrandPartnerTwo": {
     "description": "Auto imported from components/brand-partner/BrandPartnerTwo.vue"
   },
-  "ContactFormOne": {
-    "description": "Auto imported from components/contact/ContactFormOne.vue"
-  },
-  "ContactInfoStyleOne": {
-    "description": "Auto imported from components/contact/ContactInfoStyleOne.vue"
-  },
-  "ContactInfoStyleTwo": {
-    "description": "Auto imported from components/contact/ContactInfoStyleTwo.vue"
-  },
-  "ContactGoogleMap": {
-    "description": "Auto imported from components/contact/GoogleMap.vue"
-  },
   "CategoriesBrowseSubject": {
     "description": "Auto imported from components/categories/BrowseSubject.vue"
   },
@@ -133,6 +109,78 @@
   },
   "CategoriesTopCategoriesWrapperTwo": {
     "description": "Auto imported from components/categories/TopCategoriesWrapperTwo.vue"
+  },
+  "ContactFormOne": {
+    "description": "Auto imported from components/contact/ContactFormOne.vue"
+  },
+  "ContactInfoStyleOne": {
+    "description": "Auto imported from components/contact/ContactInfoStyleOne.vue"
+  },
+  "ContactInfoStyleTwo": {
+    "description": "Auto imported from components/contact/ContactInfoStyleTwo.vue"
+  },
+  "ContactGoogleMap": {
+    "description": "Auto imported from components/contact/GoogleMap.vue"
+  },
+  "BannerStyleFour": {
+    "description": "Auto imported from components/banner/BannerStyleFour.vue"
+  },
+  "BannerStyleOne": {
+    "description": "Auto imported from components/banner/BannerStyleOne.vue"
+  },
+  "BannerStyleThree": {
+    "description": "Auto imported from components/banner/BannerStyleThree.vue"
+  },
+  "BannerStyleTwo": {
+    "description": "Auto imported from components/banner/BannerStyleTwo.vue"
+  },
+  "CoursesCourseCurriculum": {
+    "description": "Auto imported from components/courses/CourseCurriculum.vue"
+  },
+  "CoursesCourseDetailsBreadcrumb": {
+    "description": "Auto imported from components/courses/CourseDetailsBreadcrumb.vue"
+  },
+  "CoursesCourseDetailsContent": {
+    "description": "Auto imported from components/courses/CourseDetailsContent.vue"
+  },
+  "CoursesCourseDetailsHeader": {
+    "description": "Auto imported from components/courses/CourseDetailsHeader.vue"
+  },
+  "CoursesCourseFilter": {
+    "description": "Auto imported from components/courses/CourseFilter.vue"
+  },
+  "CoursesCourseGridStyle": {
+    "description": "Auto imported from components/courses/CourseGridStyle.vue"
+  },
+  "CoursesCourseGridStyleThree": {
+    "description": "Auto imported from components/courses/CourseGridStyleThree.vue"
+  },
+  "CoursesCourseGridStyleTwo": {
+    "description": "Auto imported from components/courses/CourseGridStyleTwo.vue"
+  },
+  "CoursesCourseListStyle": {
+    "description": "Auto imported from components/courses/CourseListStyle.vue"
+  },
+  "CoursesByCategories": {
+    "description": "Auto imported from components/courses/CoursesByCategories.vue"
+  },
+  "CoursesByCategoriesBackup": {
+    "description": "Auto imported from components/courses/CoursesByCategoriesBackup.vue"
+  },
+  "CoursesSectionOne": {
+    "description": "Auto imported from components/courses/CoursesSectionOne.vue"
+  },
+  "CoursesSectionThree": {
+    "description": "Auto imported from components/courses/CoursesSectionThree.vue"
+  },
+  "CoursesSectionTwo": {
+    "description": "Auto imported from components/courses/CoursesSectionTwo.vue"
+  },
+  "CoursesLanguageCourses": {
+    "description": "Auto imported from components/courses/LanguageCourses.vue"
+  },
+  "CoursesTrendingCourses": {
+    "description": "Auto imported from components/courses/TrendingCourses.vue"
   },
   "ElementsBreadcrumbStyleOne": {
     "description": "Auto imported from components/elements/BreadcrumbStyleOne.vue"
@@ -229,54 +277,6 @@
   },
   "FaqsSearchTopic": {
     "description": "Auto imported from components/faqs/SearchTopic.vue"
-  },
-  "CoursesCourseCurriculum": {
-    "description": "Auto imported from components/courses/CourseCurriculum.vue"
-  },
-  "CoursesCourseDetailsBreadcrumb": {
-    "description": "Auto imported from components/courses/CourseDetailsBreadcrumb.vue"
-  },
-  "CoursesCourseDetailsContent": {
-    "description": "Auto imported from components/courses/CourseDetailsContent.vue"
-  },
-  "CoursesCourseDetailsHeader": {
-    "description": "Auto imported from components/courses/CourseDetailsHeader.vue"
-  },
-  "CoursesCourseFilter": {
-    "description": "Auto imported from components/courses/CourseFilter.vue"
-  },
-  "CoursesCourseGridStyle": {
-    "description": "Auto imported from components/courses/CourseGridStyle.vue"
-  },
-  "CoursesCourseGridStyleThree": {
-    "description": "Auto imported from components/courses/CourseGridStyleThree.vue"
-  },
-  "CoursesCourseGridStyleTwo": {
-    "description": "Auto imported from components/courses/CourseGridStyleTwo.vue"
-  },
-  "CoursesCourseListStyle": {
-    "description": "Auto imported from components/courses/CourseListStyle.vue"
-  },
-  "CoursesByCategories": {
-    "description": "Auto imported from components/courses/CoursesByCategories.vue"
-  },
-  "CoursesByCategoriesBackup": {
-    "description": "Auto imported from components/courses/CoursesByCategoriesBackup.vue"
-  },
-  "CoursesSectionOne": {
-    "description": "Auto imported from components/courses/CoursesSectionOne.vue"
-  },
-  "CoursesSectionThree": {
-    "description": "Auto imported from components/courses/CoursesSectionThree.vue"
-  },
-  "CoursesSectionTwo": {
-    "description": "Auto imported from components/courses/CoursesSectionTwo.vue"
-  },
-  "CoursesLanguageCourses": {
-    "description": "Auto imported from components/courses/LanguageCourses.vue"
-  },
-  "CoursesTrendingCourses": {
-    "description": "Auto imported from components/courses/TrendingCourses.vue"
   },
   "FeatureListStyleOne": {
     "description": "Auto imported from components/feature/FeatureListStyleOne.vue"
@@ -437,12 +437,6 @@
   "UniversityCampusLife": {
     "description": "Auto imported from components/university/CampusLife.vue"
   },
-  "ElementsTab": {
-    "description": "Auto imported from components/elements/tab/Tab.vue"
-  },
-  "ElementsTabTabs": {
-    "description": "Auto imported from components/elements/tab/Tabs.vue"
-  },
   "ZoomArticle": {
     "description": "Auto imported from components/zoom-meetings/ZoomArticle.vue"
   },
@@ -466,5 +460,11 @@
   },
   "CoursesSidebarRelatedCourse": {
     "description": "Auto imported from components/courses/sidebar/RelatedCourse.vue"
+  },
+  "ElementsTab": {
+    "description": "Auto imported from components/elements/tab/Tab.vue"
+  },
+  "ElementsTabTabs": {
+    "description": "Auto imported from components/elements/tab/Tabs.vue"
   }
 }

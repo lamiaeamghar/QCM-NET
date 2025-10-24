@@ -59,8 +59,8 @@
 							<div class="about-course">
 								<h4 class="mb-3 -mt-2">About This Course</h4>
 								<div class="desc">
-									<p>In this course, I take you from the fundamentals and concepts of data modeling all the way through a number of best practices and techniques that you’ll need to build data models in your organization. You’ll find many examples that clearly demonstrate the key concepts and techniques covered throughout the course.</p>
-									<p>By the end of the course, you’ll be all set to not only put these principles to work, but also to make the key data modeling and design decisions required by the “art” of data modeling that transcend the nuts-and-bolts techniques and design patterns.</p>
+									<p>In this course, I take you from the fundamentals and concepts of data modeling all the way through a number of best practices and techniques that you'll need to build data models in your organization. You'll find many examples that clearly demonstrate the key concepts and techniques covered throughout the course.</p>
+									<p>By the end of the course, you'll be all set to not only put these principles to work, but also to make the key data modeling and design decisions required by the "art" of data modeling that transcend the nuts-and-bolts techniques and design patterns.</p>
 								</div>
 								<div class="flex mt-4">
 									<span class="pr-2"><i class="fas fa-tags"></i></span>
@@ -315,21 +315,28 @@
 									<ul class="mt-4 mb-4">
 										<li class="relative pl-6 mb-2 last:mb-0 before:absolute before:left-0 before:text-primary before:font-fontAwesome before:content-['\f00c'] before:font-bold">Videos</li>
 										<li class="relative pl-6 mb-2 last:mb-0 before:absolute before:left-0 before:text-primary before:font-fontAwesome before:content-['\f00c'] before:font-bold">Booklets</li>
+										<li class="relative pl-6 mb-2 last:mb-0 before:absolute before:left-0 before:text-primary before:font-fontAwesome before:content-['\f00c'] before:font-bold">Interactive QCM</li>
 									</ul>
+									
+									<!-- Start QCM Button -->
 									<button
-										class="text-base w-full text-white px-12 py-4 font-semibold bg-primary rounded hover:text-heading hover:bg-secondary"
-										@click="isModalVisible = !isModalVisible"
+										class="text-base w-full text-white px-4 py-4 font-semibold bg-primary rounded hover:text-heading hover:bg-secondary"
+										@click="startQCM"
 									>
 										<span class="pr-2">
-											<i class="fas fa-shopping-cart"></i>
+											<i class="fas fa-play-circle"></i>
 										</span>
-										Enroll Now
+										Start QCM Assessment
 									</button>
+									
 									<button
 										class="text-base w-full text-primary px-12 py-4 font-semibold bg-white-500 rounded hover:text-white hover:bg-primary mt-3"
-										@click="isModalVisible = !isModalVisible"
+										@click="addToWishlist"
 									>
-										Add to wishlist
+										<span class="pr-2">
+											<i class="fas fa-bookmark"></i>
+										</span>
+										Save for Later
 									</button>
 
 									<div class="mt-6 text-center">
@@ -394,27 +401,42 @@
 			@close="isModalVisible = !isModalVisible"
 		>
 			<template #header>
-				<h2 class="text-xl">Course Enrolled</h2>
+				<h2 class="text-xl">Start QCM Assessment</h2>
 			</template>
 
 			<template #body>
 				<div class="text-center">
 					<div class="text-primary text-[80px] mb-3">
-						<i class="fas fa-lock"></i>
+						<i class="fas fa-file-alt"></i>
 					</div>
-					<h6 class="mb-2">You have enrolled in this course.</h6>
-					<p>Please, <n-link
-							to="/login"
-							class="text-primary"
-						>login</n-link> in to get access to free lesson</p>
+					<h6 class="mb-2">Ready to begin your assessment?</h6>
+					<p>This QCM will test your understanding of the course material. You'll have <strong>{{ course.duration }} minutes</strong> to complete it.</p>
+					<div class="mt-4 p-4 bg-gray-50 rounded">
+						<h6 class="font-semibold mb-2">Assessment Details:</h6>
+						<ul class="text-sm text-left">
+							<li class="mb-1">• Multiple choice questions</li>
+							<li class="mb-1">• Immediate feedback</li>
+							<li class="mb-1">• Score tracking</li>
+							<li>• Certificate upon completion</li>
+						</ul>
+					</div>
 				</div>
 			</template>
 			<template #footer>
-				<p class="text-center">Thanks for being with us <n-link
-						to="/courses"
-						class="text-primary"
-					>Browse More Course</n-link>
-				</p>
+				<div class="flex justify-center space-x-4">
+					<button
+						class="px-6 py-2 bg-gray-300 rounded hover:bg-gray-400"
+						@click="isModalVisible = false"
+					>
+						Cancel
+					</button>
+					<button
+						class="px-6 py-2 bg-primary text-white rounded hover:bg-secondary"
+						@click="confirmStartQCM"
+					>
+						Start Assessment
+					</button>
+				</div>
 			</template>
 		</Modal>
 	</div>
@@ -455,6 +477,24 @@ export default {
 			const categories = this.courses.map((el) => el.categories);
 			return [...new Map(categories.map((item) => [item.name, item])).values()];
 		},
+	},
+
+	methods: {
+		startQCM() {
+			this.isModalVisible = true;
+		},
+		
+		confirmStartQCM() {
+			// Redirect to QCM page or start the assessment
+			this.$router.push(`/qcm/${this.course.slug}`);
+			this.isModalVisible = false;
+		},
+		
+		addToWishlist() {
+			// Add to wishlist functionality
+			console.log('Added to wishlist:', this.course.title);
+			// You can implement your wishlist logic here
+		}
 	},
 };
 </script>
